@@ -118,8 +118,133 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/47e26719-1e95-400a-8684-939eb1e511b1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f015c26b-5b14-4a31-8068-f141bc93ee22/canvas/47e26719-1e95-400a-8684-939eb1e511b1
     zoom: true
+
+  - id: "cat-3"
+    src: figures/3.jpg
+    caption: "Fig. 25 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e84d2fe4-cdfb-43e8-a0fb-b76fc4b9f625/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e84d2fe4-cdfb-43e8-a0fb-b76fc4b9f625/canvas/84085de9-8248-4b51-93d4-cfd3fc95d5ff
+    zoom: true
+
+  - id: "cat-3_2"
+    src: figures/3_2.jpg
+    caption: "Fig. 26 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd827a6f-0820-4560-b88c-3787dcb444b8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd827a6f-0820-4560-b88c-3787dcb444b8/canvas/4c75652c-2ea5-49fd-8cfd-e886e6698abd
+    zoom: true
+
+  - id: "cat-3_3"
+    src: figures/3_3.jpg
+    caption: "Fig. 27 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d54549e5-c9b7-41ac-83fb-3d05596ca8f4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d54549e5-c9b7-41ac-83fb-3d05596ca8f4/canvas/1184de61-7e24-4ecb-8b70-49b716eadd8b
+    zoom: true
+
+  - id: "cat-3_4"
+    src: figures/3_4.jpg
+    caption: "Fig. 28 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6769930b-71ed-471a-8a49-18b0682b384d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6769930b-71ed-471a-8a49-18b0682b384d/canvas/90ae1fbb-7c29-4980-bbe1-e99d356d8e32
+    zoom: true
+
+  - id: "cat-3_5"
+    src: figures/3_5.jpg
+    caption: "Fig. 29 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/689f5abb-b51f-483c-9c7b-85b796200d24/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/689f5abb-b51f-483c-9c7b-85b796200d24/canvas/1606e25b-3842-47c1-9607-9d3ec23f2ee6
+    zoom: true
+
+  - id: "cat-3_6"
+    src: figures/3_6.jpg
+    caption: "Fig. 30 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ee7ad4e-2a6b-409e-9b96-b9fbc58a192c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ee7ad4e-2a6b-409e-9b96-b9fbc58a192c/canvas/c59c11f9-ccdf-4268-aacf-425a4a3a32e5
+    zoom: true
+
+  - id: "cat-3_7"
+    src: figures/3_7.jpg
+    caption: "Fig. 31 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d1533e4d-b791-4be1-a07b-8e39590ac96f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d1533e4d-b791-4be1-a07b-8e39590ac96f/canvas/f1e4af3d-bb44-46ab-893a-5a7f64410110
+    zoom: true
+
+  - id: "cat-3_8"
+    src: figures/3_8.jpg
+    caption: "Fig. 32 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/184a21cb-0a75-4500-b831-0e4c6e85b1d6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/184a21cb-0a75-4500-b831-0e4c6e85b1d6/canvas/91f2ec2d-e5b8-496f-bc2c-b954a86faa46
+    zoom: true
+
+  - id: "cat-3_9"
+    src: figures/3_9.jpg
+    caption: "Fig. 33 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c317235-bd30-434a-badc-13d10e5edfcf/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c317235-bd30-434a-badc-13d10e5edfcf/canvas/7a1f3522-d5b9-405a-a65e-e7218873e4d7
+    zoom: true
+
+  - id: "cat-3_10"
+    src: figures/3_10.jpg
+    caption: "Fig. 34 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c3ad2981-c4cf-4d3f-87a2-f707ee4d7821/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c3ad2981-c4cf-4d3f-87a2-f707ee4d7821/canvas/4c32603d-e19e-484f-a4b2-49426d277e08
+    zoom: true
+
+  - id: "cat-3_11"
+    src: figures/3_11.jpg
+    caption: "Fig. 18 - Parasta"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28ec2a14-9bb0-4f8a-bda0-6749e2af122b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28ec2a14-9bb0-4f8a-bda0-6749e2af122b/canvas/d7ade8b3-e7ad-467a-beb2-429e71d787be
+    zoom: true
+
+  - id: "cat-3_12"
+    src: figures/3_12.jpg
+    caption: "Fig. 35 - Transenna marmorea"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/98c3e64b-3dbf-4825-84cc-c958e84d0281/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/98c3e64b-3dbf-4825-84cc-c958e84d0281/canvas/c21ce2e0-3e13-4211-b188-816782ae0e48
+    zoom: true
+
+  - id: "cat-3_13"
+    src: figures/3_13.jpg
+    caption: "Fig. 22 - Parapetto"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/76470ee3-f448-47d9-9ab2-fbccf104a9d4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/76470ee3-f448-47d9-9ab2-fbccf104a9d4/canvas/d54a7305-8442-420b-aa92-b5fc9be42bf1
+    zoom: true
+
+  - id: "cat-3_13b"
+    src: figures/3_13b.jpg
+    caption: "Fig. 23 - Parapetto"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e49c95bb-c449-4d1b-9c89-ee3a76627c64/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e49c95bb-c449-4d1b-9c89-ee3a76627c64/canvas/12ac1c9c-a042-4038-875d-79d85f56716b
+    zoom: true
+
+  - id: "cat-3_14"
+    src: figures/3_14.jpg
+    caption: "Fig. 24 - Parapetto"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f202f7a9-1c5a-4389-a016-af9a8d9405e5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f202f7a9-1c5a-4389-a016-af9a8d9405e5/canvas/063f82d0-03db-4c7f-a7f9-6029bedb5fd4
+    zoom: true
     
-    
+  - id: "cat-3_15"
+    src: figures/3_15.jpg
+    caption: "Fig. 21 - Monumento funebre del cardinale Ludovico d'Albret"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6ac14c1f-485f-417f-b51a-c8d366489a0f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6ac14c1f-485f-417f-b51a-c8d366489a0f/canvas/36c7aac5-50ea-46f6-bf7c-3e3194d2dbfc
+    zoom: true
+  
+  - id: "cat-3_16"
+    src: figures/3_16.jpg
+    caption: "Fig. 20 - Frammento di parasta (?)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a2aeae80-ea54-4575-8ed2-b50bf30a3fc8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a2aeae80-ea54-4575-8ed2-b50bf30a3fc8/canvas/16f94d37-db00-4c33-ab88-5d33f875e619
+    zoom: true
+   
+  - id: "cat-3_17"
+    src: figures/3_17.jpg
+    caption: "Fig. 19 - Camino"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/canvas/ec3bdcc6-5b69-40dc-9639-102d552edc09
+    zoom: true
+
   - id: "cat-35"
     src: figures/35.jpg
     caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*"
