@@ -245,6 +245,69 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/canvas/ec3bdcc6-5b69-40dc-9639-102d552edc09
     zoom: true
 
+  - id: "cat-4"
+    src: figures/4.jpg
+    caption: "Fig. 45 - Madonna con il Bambino in trono"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45ba3d46-1871-4d9e-b7eb-46f9e4a3e0d1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45ba3d46-1871-4d9e-b7eb-46f9e4a3e0d1/canvas/148e7828-935f-4282-a65d-93b3e3091571
+    zoom: true
+
+  - id: "cat-4_1"
+    src: figures/4_1.jpg
+    caption: "Fig. 47 - Madonna con il Bambino in trono"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53420c0b-f385-4a31-85ed-f12cfe3bc5e7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53420c0b-f385-4a31-85ed-f12cfe3bc5e7/canvas/73d4c840-8cd8-46db-96d3-8674f7373142
+    zoom: true
+
+  - id: "cat-4_2"
+    src: figures/4_2.jpg
+    caption: "Fig. 46 - Madonna con il Bambino in trono"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44f6718e-6b49-49ec-83e5-513c689dbb6d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44f6718e-6b49-49ec-83e5-513c689dbb6d/canvas/44a81c06-9da3-4742-b5d4-a0215d304e8d
+    zoom: true
+
+  - id: "cat-4_3"
+    src: figures/4_3.jpg
+    caption: "Fig. 48 - Madonna con il Bambino in trono"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/canvas/d2c36da2-fc90-4127-a6cf-a80e9036f3f4
+    zoom: true
+
+  - id: "cat-4_4"
+    src: figures/4_4.jpg
+    caption: "Fig. 49 - Madonna con il Bambino in trono"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/canvas/41f0d78e-0a0e-4068-8b43-df2545e1310e
+    zoom: true
+
+  - id: "cat-4_5"
+    src: figures/4_5.jpg
+    caption: "Fig. 44 - Madonna con il Bambino"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3a3768-d68f-440c-ac28-3e39d704cd09/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3a3768-d68f-440c-ac28-3e39d704cd09/canvas/5b62cbea-75b3-413d-bd91-33418f84eef7
+    zoom: true
+
+  - id: "cat-4_6"
+    src: figures/4_6.jpg
+    caption: "Fig. 50 - Madonna con il Bambino in trono"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/beb8ebb2-e91c-4478-a887-6759f24bb480/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/beb8ebb2-e91c-4478-a887-6759f24bb480/canvas/4a26ce2a-0a40-4a10-8cd2-cb467df88b46
+    zoom: true
+
+  - id: "cat-4_7"
+    src: figures/4_7.jpg
+    caption: "Fig. 51 - Madonna con il Bambino in trono"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/canvas/c96a1dd1-6f94-42df-b73b-c24a47151a03
+    zoom: true
+
+  - id: "cat-4_8"
+    src: figures/4_8.jpg
+    caption: "Fig. 52 - Madonna con il Bambino in trono"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/canvas/78fb6bb5-28f3-446f-833f-74a465d2b989
+    zoom: true
+
   - id: "cat-35"
     src: figures/35.jpg
     caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*"
