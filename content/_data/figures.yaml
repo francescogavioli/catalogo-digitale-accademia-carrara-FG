@@ -1,5 +1,306 @@
 figure_list:
 
+  - id: "cat-2_1"
+    src: figures/2_1.jpg
+    caption: "Fig. 1 - Scultore toscano (?), *Ritratto di gentiluomo*, ultimo quarto del XV secolo, Tulsa, Philbrook Museum of Art, Gift of the Samuel H. Kress Foundation"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/58d73465-e428-4dc4-b369-06bbfdb74dc6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/18125cd2-a989-4311-b589-e9198d9108c9/canvas/58d73465-e428-4dc4-b369-06bbfdb74dc6
+    zoom: true
+    
+  - id: "cat-2_2"
+    src: figures/2_2.jpg
+    caption: "Fig. 2 - Pittore emiliano, *Ritratto di giovane ventiduenne (Percivalle Riario?)*, 1475-1480 circa, Bergamo, Accademia Carrara"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/d6c44424-565c-46fe-a55c-0180fc59b10d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/792b666f-2b04-4a7f-958b-8a65c54b8740/canvas/d6c44424-565c-46fe-a55c-0180fc59b10d
+    zoom: true
+    
+  - id: "cat-2_3"
+    src: figures/2_3.jpg
+    caption: "Fig. 3 - Scultore emiliano (?), *Ritratto di Giovanni II Bentivoglio (?)*, post 1497, Bergamo, Accademia Carrara"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/c79cfd5c-0585-4ca3-9868-4ac9cead56c9/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63d2abc6-b952-4f83-b465-e376be36db34/canvas/c79cfd5c-0585-4ca3-9868-4ac9cead56c9
+    zoom: true
+
+  - id: "cat-2_4"
+    src: figures/2_4.jpg
+    caption: "Fig. 4 - Antonio della Porta detto Tamagnino, *Ritratto di Acellino Salvago*, 1500 circa, Berlino, Bode-Museum (ante 1945)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/e7612aaf-c7e9-41c0-83ff-8191ceb6f65c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63012757-0645-4115-b08f-9571dcc319b0/canvas/e7612aaf-c7e9-41c0-83ff-8191ceb6f65c
+    zoom: true
+    
+  - id: "cat-2_5"
+    src: figures/2_5.jpg
+    caption: "Fig. 5 - Scultore lombardo (o veneto?), *Ritratto di Marco di Andrea Pantaleone Barbo*, ultimo quarto del XV secolo Venezia, Seminario Patriarcale"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/4a301e61-efc8-45c6-af21-d99ba34f9353/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1019dc3a-b427-4832-8eef-175f4a60ba4f/canvas/4a301e61-efc8-45c6-af21-d99ba34f9353
+    zoom: true
+    
+  - id: "cat-2_6"
+    src: figures/2_6.jpg
+    caption: "Fig. 6 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/1d436946-c022-486a-ba0e-157575de8b11/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae2d5669-0f41-493e-8888-81da7ce26ed1/canvas/1d436946-c022-486a-ba0e-157575de8b11
+    zoom: true
+
+  - id: "cat-2_7"
+    src: figures/2_7.jpg
+    caption: "Fig. 7 - Lazzaro Bastiani, *Ritratto del doge Francesco Foscari*, 1455-1465 circa, Venezia, Museo Civico Correr"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/0c146334-0e55-42e1-bdfb-ba8b3aa036fd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fcd64828-d031-4d1f-99db-73c5d3dc4d0f/canvas/0c146334-0e55-42e1-bdfb-ba8b3aa036fd
+    zoom: true
+    
+  - id: "cat-2_8"
+    src: figures/2_8.jpg
+    caption: "Fig. 8 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/a6d76f05-c8ca-4bde-81e1-b35d5df19bc1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0bf5dc75-5057-4a6a-92e3-bbc56f1a07f3/canvas/a6d76f05-c8ca-4bde-81e1-b35d5df19bc1
+    zoom: true
+
+  - id: "cat-2_9"
+    src: figures/2_9.jpg
+    caption: "Fig. 9 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/ec999a85-ced4-4ec5-902c-278fb32844f1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5053851b-0589-43dd-b741-523a9afdbbf1/canvas/ec999a85-ced4-4ec5-902c-278fb32844f1
+    zoom: true
+
+  - id: "cat-2_10"
+    src: figures/2_10.jpg
+    caption: "Fig. 10 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/11ea7c74-8958-417a-8887-94fbccbf447d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bb3d5c22-d773-405c-83ca-e2720115a24a/canvas/11ea7c74-8958-417a-8887-94fbccbf447d
+    zoom: true
+
+  - id: "cat-2_11"
+    src: figures/2_11.jpg
+    caption: "Fig. 11 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/b82f2984-3e6f-4cae-ba33-9a189cc37e64/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53bd6603-5c42-441c-adf0-4c5e16ec79bd/canvas/b82f2984-3e6f-4cae-ba33-9a189cc37e64
+    zoom: true
+
+  - id: "cat-2_12"
+    src: figures/2_12.jpg
+    caption: "Fig. 12 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/52ff3a74-d17b-4f7a-a000-897b76424c34/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a722dc8-938c-453d-94f1-14cbd5b5517d/canvas/52ff3a74-d17b-4f7a-a000-897b76424c34
+    zoom: true
+
+  - id: "cat-2_13"
+    src: figures/2_13.jpg
+    caption: "Fig. 13 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/21ab5526-5a74-4e2a-b92d-e9ae3e51725a/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0be0500-856d-4023-9d53-4ba011d3488a/canvas/21ab5526-5a74-4e2a-b92d-e9ae3e51725a
+    zoom: true
+
+  - id: "cat-2_14"
+    src: figures/2_14.jpg
+    caption: "Fig. 14 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/bbeeb4be-a599-4115-bd9f-02c5ecf9f2e8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3cef4e82-866b-4533-9a69-1917b405b240/canvas/bbeeb4be-a599-4115-bd9f-02c5ecf9f2e8
+    zoom: true
+
+  - id: "cat-2_15"
+    src: figures/2_15.jpg
+    caption: "Fig. 15 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/4c3e5047-19f3-4177-b4a4-970662f2f7cf/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/954057ab-5868-4709-b1d4-0358faa03964/canvas/4c3e5047-19f3-4177-b4a4-970662f2f7cf
+    zoom: true
+
+  - id: "cat-2_16"
+    src: figures/2_16.jpg
+    caption: "Fig. 16 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/38dbf564-45d5-40d0-a36f-4b78d2fa2e8e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c265d824-83a7-442c-8a59-b09b0884c7be/canvas/38dbf564-45d5-40d0-a36f-4b78d2fa2e8e
+    zoom: true
+
+  - id: "cat-2_17"
+    src: figures/2_17.jpg
+    caption: "Fig. 17 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (verso)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/47e26719-1e95-400a-8684-939eb1e511b1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f015c26b-5b14-4a31-8068-f141bc93ee22/canvas/47e26719-1e95-400a-8684-939eb1e511b1
+    zoom: true
+
+  - id: "cat-3"
+    src: figures/3.jpg
+    caption: "Fig. 1 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e84d2fe4-cdfb-43e8-a0fb-b76fc4b9f625/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e84d2fe4-cdfb-43e8-a0fb-b76fc4b9f625/canvas/84085de9-8248-4b51-93d4-cfd3fc95d5ff
+    zoom: true
+
+  - id: "cat-3_2"
+    src: figures/3_2.jpg
+    caption: "Fig. 2 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd827a6f-0820-4560-b88c-3787dcb444b8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd827a6f-0820-4560-b88c-3787dcb444b8/canvas/4c75652c-2ea5-49fd-8cfd-e886e6698abd
+    zoom: true
+
+  - id: "cat-3_3"
+    src: figures/3_3.jpg
+    caption: "Fig. 3 - Scultore attivo a Roma (o in ambito umbro-marchigiano o partenopeo), *Parasta*, ultimo decennio del XV secolo o primo decennio del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d54549e5-c9b7-41ac-83fb-3d05596ca8f4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d54549e5-c9b7-41ac-83fb-3d05596ca8f4/canvas/1184de61-7e24-4ecb-8b70-49b716eadd8b
+    zoom: true
+
+  - id: "cat-3_4"
+    src: figures/3_4.jpg
+    caption: "Fig. 4 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6769930b-71ed-471a-8a49-18b0682b384d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6769930b-71ed-471a-8a49-18b0682b384d/canvas/90ae1fbb-7c29-4980-bbe1-e99d356d8e32
+    zoom: true
+
+  - id: "cat-3_5"
+    src: figures/3_5.jpg
+    caption: "Fig. 5 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/689f5abb-b51f-483c-9c7b-85b796200d24/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/689f5abb-b51f-483c-9c7b-85b796200d24/canvas/1606e25b-3842-47c1-9607-9d3ec23f2ee6
+    zoom: true
+
+  - id: "cat-3_6"
+    src: figures/3_6.jpg
+    caption: "Fig. 6 - Scultore attivo a Roma (o in ambito umbro-marchigiano o partenopeo), *Parasta*, ultimo decennio del XV secolo o primo decennio del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ee7ad4e-2a6b-409e-9b96-b9fbc58a192c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3ee7ad4e-2a6b-409e-9b96-b9fbc58a192c/canvas/c59c11f9-ccdf-4268-aacf-425a4a3a32e5
+    zoom: true
+
+  - id: "cat-3_7"
+    src: figures/3_7.jpg
+    caption: "Fig. 7 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d1533e4d-b791-4be1-a07b-8e39590ac96f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d1533e4d-b791-4be1-a07b-8e39590ac96f/canvas/f1e4af3d-bb44-46ab-893a-5a7f64410110
+    zoom: true
+
+  - id: "cat-3_8"
+    src: figures/3_8.jpg
+    caption: "Fig. 8 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/184a21cb-0a75-4500-b831-0e4c6e85b1d6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/184a21cb-0a75-4500-b831-0e4c6e85b1d6/canvas/91f2ec2d-e5b8-496f-bc2c-b954a86faa46
+    zoom: true
+
+  - id: "cat-3_9"
+    src: figures/3_9.jpg
+    caption: "Fig. 9 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c317235-bd30-434a-badc-13d10e5edfcf/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c317235-bd30-434a-badc-13d10e5edfcf/canvas/7a1f3522-d5b9-405a-a65e-e7218873e4d7
+    zoom: true
+
+  - id: "cat-3_10"
+    src: figures/3_10.jpg
+    caption: "Fig. 10 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c3ad2981-c4cf-4d3f-87a2-f707ee4d7821/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c3ad2981-c4cf-4d3f-87a2-f707ee4d7821/canvas/4c32603d-e19e-484f-a4b2-49426d277e08
+    zoom: true
+
+  - id: "cat-3_11"
+    src: figures/3_11.jpg
+    caption: "Fig. 11 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28ec2a14-9bb0-4f8a-bda0-6749e2af122b/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28ec2a14-9bb0-4f8a-bda0-6749e2af122b/canvas/d7ade8b3-e7ad-467a-beb2-429e71d787be
+    zoom: true
+
+  - id: "cat-3_12"
+    src: figures/3_12.jpg
+    caption: "Fig. 12 - Giovanni Dalmata, *Transenna marmorea*, 1475-1480 circa, Roma, Cappella Sistina"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/98c3e64b-3dbf-4825-84cc-c958e84d0281/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/98c3e64b-3dbf-4825-84cc-c958e84d0281/canvas/c21ce2e0-3e13-4211-b188-816782ae0e48
+    zoom: true
+
+  - id: "cat-3_13"
+    src: figures/3_13.jpg
+    caption: "Fig. 13 - Bottega bregnesca toscano-fiorentina, *Parapetto*, Roma, Santa Maria del Popolo, Cappella Montemirabile"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/76470ee3-f448-47d9-9ab2-fbccf104a9d4/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/76470ee3-f448-47d9-9ab2-fbccf104a9d4/canvas/d54a7305-8442-420b-aa92-b5fc9be42bf1
+    zoom: true
+
+  - id: "cat-3_14"
+    src: figures/3_14.jpg
+    caption: "Fig. 14 - Bottega bregnesca toscano-fiorentina, *Parapetto*, Roma, Santa Maria del Popolo, Cappella Montemirabile"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f202f7a9-1c5a-4389-a016-af9a8d9405e5/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f202f7a9-1c5a-4389-a016-af9a8d9405e5/canvas/063f82d0-03db-4c7f-a7f9-6029bedb5fd4
+    zoom: true
+
+  - id: "cat-3_15"
+    src: figures/3_15.jpg
+    caption: "Fig. 15 - Bottega di Andrea Bregno, *Monumento funebre del cardinale Ludovico d'Albret*, Roma, Santa Maria in Aracoeli"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6ac14c1f-485f-417f-b51a-c8d366489a0f/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6ac14c1f-485f-417f-b51a-c8d366489a0f/canvas/36c7aac5-50ea-46f6-bf7c-3e3194d2dbfc
+    zoom: true
+
+  - id: "cat-3_16"
+    src: figures/3_16.jpg
+    caption: "Fig. 16 - Jacopo d’Andrea del Mazza, *Frammento di parasta (?)*, Roma, Palazzo Colonna, Lapidario"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a2aeae80-ea54-4575-8ed2-b50bf30a3fc8/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a2aeae80-ea54-4575-8ed2-b50bf30a3fc8/canvas/16f94d37-db00-4c33-ab88-5d33f875e619
+    zoom: true
+
+  - id: "cat-3_17"
+    src: figures/3_17.jpg
+    caption: "Fig. 17 - Scultore attivo a Roma, *Camino*, ultimo quarto del XV secolo, Roma, Palazzo Colonna, Salone Turco (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/canvas/ec3bdcc6-5b69-40dc-9639-102d552edc09
+    zoom: true
+
+  - id: "cat-4"
+    src: figures/4.jpg
+    caption: "Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45ba3d46-1871-4d9e-b7eb-46f9e4a3e0d1/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45ba3d46-1871-4d9e-b7eb-46f9e4a3e0d1/canvas/148e7828-935f-4282-a65d-93b3e3091571
+    zoom: true
+
+  - id: "cat-4_1"
+    src: figures/4_1.jpg
+    caption: "Fig. 1 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53420c0b-f385-4a31-85ed-f12cfe3bc5e7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53420c0b-f385-4a31-85ed-f12cfe3bc5e7/canvas/73d4c840-8cd8-46db-96d3-8674f7373142
+    zoom: true
+
+  - id: "cat-4_2"
+    src: figures/4_2.jpg
+    caption: "Fig. 2 - - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44f6718e-6b49-49ec-83e5-513c689dbb6d/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44f6718e-6b49-49ec-83e5-513c689dbb6d/canvas/44a81c06-9da3-4742-b5d4-a0215d304e8d
+    zoom: true
+
+  - id: "cat-4_3"
+    src: figures/4_3.jpg
+    caption: "Fig. 3 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/canvas/d2c36da2-fc90-4127-a6cf-a80e9036f3f4
+    zoom: true
+
+  - id: "cat-4_4"
+    src: figures/4_4.jpg
+    caption: "Fig. 4 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/canvas/41f0d78e-0a0e-4068-8b43-df2545e1310e
+    zoom: true
+
+  - id: "cat-4_5"
+    src: figures/4_5.jpg
+    caption: "Fig. 5 - Francesco Laurana, *Madonna con il Bambino*, Napoli, Museo Civico di Castel Nuovo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3a3768-d68f-440c-ac28-3e39d704cd09/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3a3768-d68f-440c-ac28-3e39d704cd09/canvas/5b62cbea-75b3-413d-bd91-33418f84eef7
+    zoom: true
+
+  - id: "cat-4_6"
+    src: figures/4_6.jpg
+    caption: "Fig. 6 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo, Abriola, Santa Maria Maggiore"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/beb8ebb2-e91c-4478-a887-6759f24bb480/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/beb8ebb2-e91c-4478-a887-6759f24bb480/canvas/4a26ce2a-0a40-4a10-8cd2-cb467df88b46
+    zoom: true
+
+  - id: "cat-4_7"
+    src: figures/4_7.jpg
+    caption: "Fig. 7 - Scultore lucano, fine del XV o inizio del XVI secolo, Madonna con il Bambino in trono, Abriola, Santa Maria Maggiore.tif"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cac316a8-64ba-40d6-89b8-3ef965749a89/canvas/c96a1dd1-6f94-42df-b73b-c24a47151a03
+    zoom: true
+
+  - id: "cat-4_8"
+    src: figures/4_8.jpg
+    caption: "Fig. 8 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/canvas/78fb6bb5-28f3-446f-833f-74a465d2b989
+    zoom: true
+
   - id: "cat-35"
     src: figures/35.jpg
     caption: "Tito Sarrocchi nella bottega di Giovanni Dupré, *Ritratto di Luigi Tonti*"

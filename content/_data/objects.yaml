@@ -14,10 +14,10 @@ object_display_order:
 object_list:
 
   - id: 1
-    autore: Scultore dell’Italia settentrionale / Bartolomeo Bellano (?) 
-    dati anagrafici autore: 
+    autore: Antonio Rizzo (bottega di) 
+    dati anagrafici autore: Verona 1430 circa - Cesena (?) post 1499
     titolo: San Girolamo in un paesaggio
-    datazione: 1460 circa 
+    datazione: 1465-1475 circa
     materia e tecnica: Marmo
     misure: 54,5 × 39,5 × 7 cm
     iscrizioni, etichette, cartellini, timbri: Nessuna
@@ -600,16 +600,16 @@ object_list:
 
   - id: 25
     autore: Innocenzo Spinazzi
-    dati anagrafici autore: Roma, 1718 - Firenze, 1798
-    titolo: Ritratto di Georges Nassau III Earl of Cowper
+    dati anagrafici autore: Roma, 18 luglio 1726 - Firenze, 19 novembre 1798
+    titolo: Ritratto di Georges Nassau Clevering III Earl of Cowper
     datazione: 1787
     materia e tecnica: Marmo
     misure: 62 x 60 x 31,5 cm (busto) XX × XX × XX cm (base)
-    iscrizioni, etichette, cartellini, timbri: Sul retro, iscrizione in lettere capitali incisa nel marmo con firma e data «Innoc.o Spinazzi Rom.o fac.o  / in Firenze 1787». Sul retro, a destra, Iscrizione a pennello nera «123».
+    iscrizioni, etichette, cartellini, timbri: Sul retro, iscrizione in lettere capitali incisa nel marmo con firma e data «Innoc(ENZ)o Spinazzi Rom(AN)o fac(EV)o  / in Firenze 1787». Sul retro, a destra, iscrizione a pennello nera «123».
     acquisizione: Legato Federico Zeri, 1988
     numero di inventario: Inv. n. 98 ZR 00030
     numeri di inventario precedenti: Sc. 156 (1998-2007); Sc. 164; Sc. 149; 1998 AC Sculture 00030 (2011-2012); 98 SC ZR030 (2012-2015)
-    collocazione: Non esposto
+    collocazione: Esposto - Sala 6
     figure:
       - id: "cat-35"
 
