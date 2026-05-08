@@ -3,6 +3,13 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+      - 'docs/**'
+
+concurrency:
+  group: quire-${{ github.ref }}
+  cancel-in-progress: true
+  
 permissions:
   actions: read
   checks: read
@@ -42,7 +49,7 @@ jobs:
         run: npm install
 
       - name: Quire install
-        run: sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11
+        run: sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11 --no-audit --no-fund --loglevel=warn
 
       - name: Git init
         run: |
