@@ -49,7 +49,7 @@ jobs:
         run: npm install
 
       - name: Quire install
-        run: sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11 --no-audit --no-fund --loglevel=warn
+        run: echo "Skipping global Quire install; using npx instead"
 
       - name: Git init
         run: |
@@ -64,12 +64,12 @@ jobs:
           PUBLIC_URL: ${{ vars.PUBLIC_URL }}
 
       - name: Quire build
-        run: quire build
-
+        run: npx --yes --package @thegetty/quire-cli@1.0.0-rc.11 quire build
+        
       - name: Quire PDF build
         continue-on-error: true
         run: |
-          quire pdf
+          npx --yes --package @thegetty/quire-cli@1.0.0-rc.11 quire pdf
           sudo apt-get install pandoc
           mkdir -p _site/downloads
           pandoc _site/pdf.html -o _site/downloads/output.pdf
