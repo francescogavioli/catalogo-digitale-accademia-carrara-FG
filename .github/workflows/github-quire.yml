@@ -15,10 +15,11 @@ jobs:
   quire-build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: 16
+          node-version: 20
+          cache: npm
       - name: Cache node modules
         id: cache-npm
         uses: actions/cache@v3
@@ -42,7 +43,7 @@ jobs:
 
       - name: Quire install
         run: |
-          sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11
+          run: sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11
 
       - name: Git init
         run: |
