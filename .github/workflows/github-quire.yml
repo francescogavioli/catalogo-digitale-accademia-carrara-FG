@@ -42,8 +42,7 @@ jobs:
         run: npm install
 
       - name: Quire install
-        run: |
-          run: sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11
+        run: sudo npm install --global @thegetty/quire-cli@1.0.0-rc.11
 
       - name: Git init
         run: |
