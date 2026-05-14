@@ -1,5 +1,19 @@
 figure_list:
 
+  - id: "cat-1"
+    src: figures/1.jpg
+    caption: "Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8d25c27-755a-4a9e-ad2f-ecc69ae88a16/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/d8d25c27-755a-4a9e-ad2f-ecc69ae88a16/canvas/5be5cbef-c1d9-487c-af10-f7c7725b0832
+    zoom: true
+
+  - id: "cat-2"
+    src: figures/2.jpg
+    caption: "Scultore lombardo (o veneto?), *Ritratto d'uomo*, ultimo quarto del XV secolo (?), Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b9feedd-34f6-4391-bbe7-0feb31c7935c/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b9feedd-34f6-4391-bbe7-0feb31c7935c/canvas/347ba212-2041-4dc2-bc1d-f800ebdebcae
+    zoom: true
+    
   - id: "cat-2_1"
     src: figures/2_1.jpg
     caption: "Fig. 1 - Scultore toscano (?), *Ritratto di gentiluomo*, ultimo quarto del XV secolo, Tulsa, Philbrook Museum of Art, Gift of the Samuel H. Kress Foundation"
@@ -299,6 +313,41 @@ figure_list:
     caption: "Fig. 8 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/17ea26b4-8ed6-4820-8c46-50116d1d57a6/canvas/78fb6bb5-28f3-446f-833f-74a465d2b989
+    zoom: true
+
+  - id: "cat-10"
+    src: figures/10.jpg
+    caption: "Pietro Bernini, *Allegoria della Virtù vittoriosa sul Vizio*, Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
+    zoom: true
+
+  - id: "cat-14"
+    src: figures/14.jpg
+    caption: "Scultore attivo a Roma, *Testa di Socrate*, prima metà XVII sec, Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b3e486b-b12e-42bf-a7f0-fc07c106a0e0/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/2b3e486b-b12e-42bf-a7f0-fc07c106a0e0/canvas/4faa832e-901e-4c99-9e6a-4948b56994ac
+    zoom: true
+
+  - id: "cat-15"
+    src: figures/15.jpg
+    caption: "Domenico Guidi, *Busto di Alessandro Rondinini senior*, Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/4af8da33-4fb9-490f-8127-a9d2e94287c7/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/4af8da33-4fb9-490f-8127-a9d2e94287c7/canvas/dbd2f06c-cf62-4634-8233-3ccac16433a6
+    zoom: true
+
+  - id: "cat-16"
+    src: figures/16.jpg
+    caption: "Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Fine XVII secolo - inizio XVIII secolo, Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/de82f6df-ab9a-4b42-9625-d358bb49a9ad/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/30c98ff4-a674-4bff-bbf6-d17a2ad7350e/canvas/842c1ac6-8068-41b5-ad7a-4fb79a092929
+    zoom: true
+
+  - id: "cat-18"
+    src: figures/18.jpg
+    caption: "Girolamo Ticciati, *San Paolo*, Collezione Zeri, Accademia Carrara, Bergamo"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/30c98ff4-a674-4bff-bbf6-d17a2ad7350e/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
     zoom: true
 
   - id: "cat-35"
