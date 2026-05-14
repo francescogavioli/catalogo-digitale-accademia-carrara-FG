@@ -256,7 +256,7 @@ figure_list:
     src: figures/4.jpg
     caption: "Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45ba3d46-1871-4d9e-b7eb-46f9e4a3e0d1/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45ba3d46-1871-4d9e-b7eb-46f9e4a3e0d1/canvas/148e7828-935f-4282-a65d-93b3e3091571
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/45ba3d46-1871-4d9e-b7eb-46f9e4a3e0d1/canvas/2be48b40-0385-47dc-8d71-e9aff27b3f97
     zoom: true
 
   - id: "cat-4_1"
@@ -340,14 +340,14 @@ figure_list:
     src: figures/16.jpg
     caption: "Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Fine XVII secolo - inizio XVIII secolo, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/de82f6df-ab9a-4b42-9625-d358bb49a9ad/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/30c98ff4-a674-4bff-bbf6-d17a2ad7350e/canvas/842c1ac6-8068-41b5-ad7a-4fb79a092929
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/de82f6df-ab9a-4b42-9625-d358bb49a9ad/canvas/a6373cd5-730a-4948-ab80-53a9f5a8b919
     zoom: true
 
   - id: "cat-18"
     src: figures/18.jpg
     caption: "Girolamo Ticciati, *San Paolo*, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/30c98ff4-a674-4bff-bbf6-d17a2ad7350e/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/30c98ff4-a674-4bff-bbf6-d17a2ad7350e/canvas/842c1ac6-8068-41b5-ad7a-4fb79a092929
     zoom: true
 
   - id: "cat-35"
