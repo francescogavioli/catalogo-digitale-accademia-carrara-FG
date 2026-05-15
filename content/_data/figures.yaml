@@ -9,28 +9,28 @@ figure_list:
 
   - id: "cat-1_2"
     src: figures/1_2.jpg
-    caption: "Fig. 2 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    caption: "Fig. 2 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/26136b96-ecf0-4431-a959-9337f535f118/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/26136b96-ecf0-4431-a959-9337f535f118/canvas/973a65d8-4bdd-41bd-ab03-8d986dff4152
     zoom: true
 
   - id: "cat-1_3"
     src: figures/1_3.jpg
-    caption: "Fig. 3 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    caption: "Fig. 3 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c91df8f0-c140-4aec-bfcc-b37a952d806c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c91df8f0-c140-4aec-bfcc-b37a952d806c/canvas/4656d48e-be90-4897-b566-fa2cf819f771
     zoom: true
 
   - id: "cat-1_4"
     src: figures/1_4.jpg
-    caption: "Fig. 4 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    caption: "Fig. 4 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/111cd50d-9f73-4f32-8b1b-ecf2a5bf4ead/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/111cd50d-9f73-4f32-8b1b-ecf2a5bf4ead/canvas/cb6ffa95-9a51-4010-a03a-527a3b1be83d
     zoom: true
 
   - id: "cat-1_5"
     src: figures/1_5.jpg
-    caption: "Fig. 5 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare)"
+    caption: "Fig. 5 – Antonio Rizzo (bottega di), *San Girolamo in un paesaggio*, 1465-1475 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4c0acca7-29f7-498d-a2cd-e88a81d29cf6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4c0acca7-29f7-498d-a2cd-e88a81d29cf6/canvas/a9cd5f58-9e98-4b0d-89f7-0f08948c8c13
     zoom: true
@@ -65,7 +65,7 @@ figure_list:
 
   - id: "cat-1_10"
     src: figures/1_10.jpg
-    caption: "Fig. 10 – Antonio Rizzo (bottega di), *San Girolamo*, 1465-1475 (particolare)"
+    caption: "Fig. 10 – Antonio Rizzo (bottega di), *San Girolamo*, 1465-1475 (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a00c2db-5ec0-4708-8501-7a363c081eac/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a00c2db-5ec0-4708-8501-7a363c081eac/canvas/54dcf400-047c-4136-891a-0b6b50ab9639
     zoom: true
@@ -114,7 +114,7 @@ figure_list:
 
   - id: "cat-2_4"
     src: figures/2_4.jpg
-    caption: "Fig. 4 - Antonio della Porta detto Tamagnino, *Ritratto di Acellino Salvago*, 1500 circa, Berlino, Bode-Museum (ante 1945)"
+    caption: "Fig. 4 - Antonio della Porta detto Tamagnino, *Ritratto di Acellino Salvago*, 1500 circa, Berlino, Bode-Museum (ante 1945"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/e7612aaf-c7e9-41c0-83ff-8191ceb6f65c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/63012757-0645-4115-b08f-9571dcc319b0/canvas/e7612aaf-c7e9-41c0-83ff-8191ceb6f65c
     zoom: true
@@ -128,7 +128,7 @@ figure_list:
     
   - id: "cat-2_6"
     src: figures/2_6.jpg
-    caption: "Fig. 6 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?)"
+    caption: "Fig. 6 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/1d436946-c022-486a-ba0e-157575de8b11/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ae2d5669-0f41-493e-8888-81da7ce26ed1/canvas/1d436946-c022-486a-ba0e-157575de8b11
     zoom: true
@@ -142,70 +142,70 @@ figure_list:
     
   - id: "cat-2_8"
     src: figures/2_8.jpg
-    caption: "Fig. 8 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 8 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/a6d76f05-c8ca-4bde-81e1-b35d5df19bc1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0bf5dc75-5057-4a6a-92e3-bbc56f1a07f3/canvas/a6d76f05-c8ca-4bde-81e1-b35d5df19bc1
     zoom: true
 
   - id: "cat-2_9"
     src: figures/2_9.jpg
-    caption: "Fig. 9 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 9 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/ec999a85-ced4-4ec5-902c-278fb32844f1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5053851b-0589-43dd-b741-523a9afdbbf1/canvas/ec999a85-ced4-4ec5-902c-278fb32844f1
     zoom: true
 
   - id: "cat-2_10"
     src: figures/2_10.jpg
-    caption: "Fig. 10 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 10 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/11ea7c74-8958-417a-8887-94fbccbf447d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bb3d5c22-d773-405c-83ca-e2720115a24a/canvas/11ea7c74-8958-417a-8887-94fbccbf447d
     zoom: true
 
   - id: "cat-2_11"
     src: figures/2_11.jpg
-    caption: "Fig. 11 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 11 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/b82f2984-3e6f-4cae-ba33-9a189cc37e64/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/53bd6603-5c42-441c-adf0-4c5e16ec79bd/canvas/b82f2984-3e6f-4cae-ba33-9a189cc37e64
     zoom: true
 
   - id: "cat-2_12"
     src: figures/2_12.jpg
-    caption: "Fig. 12 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 12 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/52ff3a74-d17b-4f7a-a000-897b76424c34/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a722dc8-938c-453d-94f1-14cbd5b5517d/canvas/52ff3a74-d17b-4f7a-a000-897b76424c34
     zoom: true
 
   - id: "cat-2_13"
     src: figures/2_13.jpg
-    caption: "Fig. 13 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 13 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/21ab5526-5a74-4e2a-b92d-e9ae3e51725a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b0be0500-856d-4023-9d53-4ba011d3488a/canvas/21ab5526-5a74-4e2a-b92d-e9ae3e51725a
     zoom: true
 
   - id: "cat-2_14"
     src: figures/2_14.jpg
-    caption: "Fig. 14 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 14 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/bbeeb4be-a599-4115-bd9f-02c5ecf9f2e8/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3cef4e82-866b-4533-9a69-1917b405b240/canvas/bbeeb4be-a599-4115-bd9f-02c5ecf9f2e8
     zoom: true
 
   - id: "cat-2_15"
     src: figures/2_15.jpg
-    caption: "Fig. 15 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 15 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/4c3e5047-19f3-4177-b4a4-970662f2f7cf/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/954057ab-5868-4709-b1d4-0358faa03964/canvas/4c3e5047-19f3-4177-b4a4-970662f2f7cf
     zoom: true
 
   - id: "cat-2_16"
     src: figures/2_16.jpg
-    caption: "Fig. 16 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare)"
+    caption: "Fig. 16 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/38dbf564-45d5-40d0-a36f-4b78d2fa2e8e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c265d824-83a7-442c-8a59-b09b0884c7be/canvas/38dbf564-45d5-40d0-a36f-4b78d2fa2e8e
     zoom: true
 
   - id: "cat-2_17"
     src: figures/2_17.jpg
-    caption: "Fig. 17 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (verso)"
+    caption: "Fig. 17 - Scultore lombardo (o veneto?), *Ritratto d’uomo*, ultimo quarto del XV secolo (?) (verso"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/image/47e26719-1e95-400a-8684-939eb1e511b1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f015c26b-5b14-4a31-8068-f141bc93ee22/canvas/47e26719-1e95-400a-8684-939eb1e511b1
     zoom: true
@@ -282,7 +282,7 @@ figure_list:
 
   - id: "cat-3_11"
     src: figures/3_11.jpg
-    caption: "Fig. 11 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo (particolare)"
+    caption: "Fig. 11 - Scultore attivo a Roma, *Parasta*, ultimo quarto del XV secolo (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28ec2a14-9bb0-4f8a-bda0-6749e2af122b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/28ec2a14-9bb0-4f8a-bda0-6749e2af122b/canvas/d7ade8b3-e7ad-467a-beb2-429e71d787be
     zoom: true
@@ -324,7 +324,7 @@ figure_list:
 
   - id: "cat-3_17"
     src: figures/3_17.jpg
-    caption: "Fig. 17 - Scultore attivo a Roma, *Camino*, ultimo quarto del XV secolo, Roma, Palazzo Colonna, Salone Turco (particolare)"
+    caption: "Fig. 17 - Scultore attivo a Roma, *Camino*, ultimo quarto del XV secolo, Roma, Palazzo Colonna, Salone Turco (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0a18f213-e155-43b1-ae4b-0c453fed249e/canvas/ec3bdcc6-5b69-40dc-9639-102d552edc09
     zoom: true
@@ -352,14 +352,14 @@ figure_list:
 
   - id: "cat-4_3"
     src: figures/4_3.jpg
-    caption: "Fig. 3 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    caption: "Fig. 3 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/46f7d877-2903-4c78-aba5-3be4b5f1bca6/canvas/d2c36da2-fc90-4127-a6cf-a80e9036f3f4
     zoom: true
 
   - id: "cat-4_4"
     src: figures/4_4.jpg
-    caption: "Fig. 4 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare)"
+    caption: "Fig. 4 - Scultore lucano, *Madonna con il Bambino in trono*, fine del XV o inizio del XVI secolo (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aaf57bad-feec-4a8c-a4dd-5516fa6f81cd/canvas/41f0d78e-0a0e-4068-8b43-df2545e1310e
     zoom: true
@@ -478,7 +478,7 @@ figure_list:
 
   - id: "cat-6_14"
     src: figures/6_14.jpg
-    caption: "Fig. 14 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 14 - Scultore senese dell’ultimo quarto del XVI secolo (Domenico Cafaggi?), *Prudenza*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/84a18d79-e149-490d-9eca-b9729e314c7c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/84a18d79-e149-490d-9eca-b9729e314c7c/canvas/f261136f-cd52-48b1-964e-62b22630be93
     zoom: true
@@ -534,7 +534,7 @@ figure_list:
 
   - id: "cat-7_5"
     src: figures/7_5.jpg
-    caption: "Fig. 5 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (retro)"
+    caption: "Fig. 5 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (retro"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/636e338f-e8cd-439b-8fad-8adbeca62a9b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/636e338f-e8cd-439b-8fad-8adbeca62a9b/canvas/4d502e55-8a9c-48d3-9848-9ffaed2977bd
     zoom: true
@@ -590,35 +590,35 @@ figure_list:
 
   - id: "cat-7_13"
     src: figures/7_13.jpg
-    caption: "Fig. 13 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
+    caption: "Fig. 13 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d6ad2fbf-8c50-4d59-8d2b-58f4f5776875/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d6ad2fbf-8c50-4d59-8d2b-58f4f5776875/canvas/75348385-d3c7-48cb-8d61-092460e3d982
     zoom: true
 
   - id: "cat-7_14"
     src: figures/7_14.jpg
-    caption: "Fig. 14 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
+    caption: "Fig. 14 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2df06218-d949-4686-950d-2af6a34c87b2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2df06218-d949-4686-950d-2af6a34c87b2/canvas/aa08b2d2-c905-445f-9d19-130ee9627501
     zoom: true
 
   - id: "cat-7_15"
     src: figures/7_15.jpg
-    caption: "Fig. 15 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
+    caption: "Fig. 15 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/91ef7908-6c62-40c7-950a-63ff09d7c034/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/91ef7908-6c62-40c7-950a-63ff09d7c034/canvas/862186e8-fbd6-42b9-bf99-52fe67afa6be
     zoom: true
 
   - id: "cat-7_16"
     src: figures/7_16.jpg
-    caption: "Fig. 16 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
+    caption: "Fig. 16 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fbd55b6c-1f00-4b44-8e77-8776303001c6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fbd55b6c-1f00-4b44-8e77-8776303001c6/canvas/ee6d3b29-8578-441c-83a0-5a8cbe1b5b86
     zoom: true
 
   - id: "cat-7_17"
     src: figures/7_17.jpg
-    caption: "Fig. 17 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare)"
+    caption: "Fig. 17 – Alessandro Vittoria, *Ritratto di Apollonio Massa*, 1571-1572 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a23cc0b4-288c-4dd3-84ee-c5ea5cc3bbed/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a23cc0b4-288c-4dd3-84ee-c5ea5cc3bbed/canvas/aa1acb0a-0516-4abc-82ae-cc617953cc36
     zoom: true
@@ -639,21 +639,21 @@ figure_list:
 
   - id: "cat-8_2"
     src: figures/8_2.jpg
-    caption: "Fig. 2 – Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa"
+    caption: "Fig. 2 – Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09b4f3b2-b125-46bb-b050-958fc245297e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09b4f3b2-b125-46bb-b050-958fc245297e/canvas/bd731328-152e-425d-be8a-8a193253c745
     zoom: true
 
   - id: "cat-8_3"
     src: figures/8_3.jpg
-    caption: "Fig. 3 – Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa"
+    caption: "Fig. 3 – Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/29cb74e3-5e13-4411-a813-7b276887d62e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/29cb74e3-5e13-4411-a813-7b276887d62e/canvas/83afe6e1-3f79-4ee3-8d03-3ead812aed63
     zoom: true
 
   - id: "cat-8_4"
     src: figures/8_4.jpg
-    caption: "Fig. 4 – Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa"
+    caption: "Fig. 4 – Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5af4235b-f06c-40e4-8257-66e9e26910fa/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5af4235b-f06c-40e4-8257-66e9e26910fa/canvas/da6e0309-0067-403b-a185-12641828b1c4
     zoom: true
@@ -695,21 +695,21 @@ figure_list:
 
   - id: "cat-8_10"
     src: figures/8_10.jpg
-    caption: "Fig. 10 – Gian Lorenzo Bernini, Busto di papa Paolo V, 1621, Los Angeles, The J. Paul Getty Museum"
+    caption: "Fig. 10 – Gian Lorenzo Bernini, *Busto di papa Paolo V*, 1621, Los Angeles, The J. Paul Getty Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cfd4e463-ece9-48ed-bd79-4fe918b2039e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/cfd4e463-ece9-48ed-bd79-4fe918b2039e/canvas/92ff5514-8e7d-43e1-992f-d16763c40587
     zoom: true
 
   - id: "cat-8_11"
     src: figures/8_11.jpg
-    caption: "Fig. 11 – Gian Lorenzo Bernini, Busto di Paolo V, Roma, Galleria Borghese"
+    caption: "Fig. 11 – Gian Lorenzo Bernini, *Busto di Paolo V*, Roma, Galleria Borghese"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/22862cb6-9f2b-46ff-85e7-abaf5558db7c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/22862cb6-9f2b-46ff-85e7-abaf5558db7c/canvas/c7b8fb09-a55b-43ac-84f0-76cd0b081f91
     zoom: true
 
   - id: "cat-8_12"
     src: figures/8_12.jpg
-    caption: "Fig. 12 – Giovanni Lorenzo Bernini, Busto di papa Paolo V Borghese, 1621-1622, Copenaghen, Statens Museum for Kunst"
+    caption: "Fig. 12 – Giovanni Lorenzo Bernini, *Busto di papa Paolo V Borghese*, 1621-1622, Copenaghen, Statens Museum for Kunst"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a365679-7942-42de-a6c9-8fa746c9ec81/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4a365679-7942-42de-a6c9-8fa746c9ec81/canvas/0dfa1ada-04fa-4500-bffd-caeccee9e884
     zoom: true
@@ -744,56 +744,56 @@ figure_list:
 
   - id: "cat-8_17"
     src: figures/8_17.jpg
-    caption: "Fig. 17 - Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa (particolare)"
+    caption: "Fig. 17 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/562197ce-eb18-463e-ad26-fa307713472a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/562197ce-eb18-463e-ad26-fa307713472a/canvas/ec120b4f-454a-4c2f-a430-4b25dcc2d017
     zoom: true
 
   - id: "cat-8_18"
     src: figures/8_18.jpg
-    caption: "Fig. 18 - Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa (particolare)"
+    caption: "Fig. 18 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4301e436-e321-4f76-aa1d-c1fad481705d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4301e436-e321-4f76-aa1d-c1fad481705d/canvas/d3215f16-d085-4902-a123-ba0da36f8b88
     zoom: true
 
   - id: "cat-8_19"
     src: figures/8_19.jpg
-    caption: "Fig. 19 - Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa (particolare)"
+    caption: "Fig. 19 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d2089879-bc3e-4b57-b22c-c05da3b68344/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d2089879-bc3e-4b57-b22c-c05da3b68344/canvas/f379422a-6752-45f3-8f17-644ac6df7f08
     zoom: true
 
   - id: "cat-8_20"
     src: figures/8_20.jpg
-    caption: "Fig. 20 - Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa (particolare)"
+    caption: "Fig. 20 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0340423f-4530-4aaa-acdb-f94951f2c23f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0340423f-4530-4aaa-acdb-f94951f2c23f/canvas/603f1667-f903-4383-9d17-7b01bb4c35c6
     zoom: true
 
   - id: "cat-8_21"
     src: figures/8_21.jpg
-    caption: "Fig. 21 - Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa (particolare)"
+    caption: "Fig. 21 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44fa2f79-f770-495a-a068-f2be9bd96580/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/44fa2f79-f770-495a-a068-f2be9bd96580/canvas/7b7d2856-19b7-41ea-94b0-cb3afd754a17
     zoom: true
 
   - id: "cat-8_22"
     src: figures/8_22.jpg
-    caption: "Fig. 22 - Nicolas Cordier, Busto di Paolo V Borghese, 1605-1612 circa (particolare)"
+    caption: "Fig. 22 - Nicolas Cordier, *Busto di Paolo V Borghese*, 1605-1612 circa (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4c04e092-e6d4-4edf-bd6a-dedf65508e2e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4c04e092-e6d4-4edf-bd6a-dedf65508e2e/canvas/f2f9426f-c1a4-45c3-8e61-d2d08a4918e3
     zoom: true
 
   - id: "cat-9"
     src: figures/9.jpg
-    caption: "COVER - Pietro Bernini, allegoria della Virtù vittoriosa sul Vizio, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "Pietro Bernini, *Allegoria della Virtù vittoriosa sul Vizio*, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5bb18c8b-2b28-49b0-99f2-67eeffed5a4b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5bb18c8b-2b28-49b0-99f2-67eeffed5a4b/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
     zoom: true
 
   - id: "cat-9_1"
     src: figures/9_1.jpg
-    caption: "Fig. 1 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 1 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b5bc0c02-907d-4bec-9ca5-74805772df77/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b5bc0c02-907d-4bec-9ca5-74805772df77/canvas/d256f8b3-af5e-4a51-9e94-5a91678d553a
     zoom: true
@@ -807,193 +807,186 @@ figure_list:
 
   - id: "cat-9_3"
     src: figures/9_3.jpg
-    caption: "Fig. 3 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 3 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c7763414-a21c-488a-81be-6145c5c95d5e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c7763414-a21c-488a-81be-6145c5c95d5e/canvas/bf431812-d38e-408c-b8db-652276487d39
     zoom: true
 
   - id: "cat-9_4"
     src: figures/9_4.jpg
-    caption: "Fig. 4 - Giambologna, Venere, Firenze, Palazzo Pitti, Giardini di Boboli, Grotta Grande"
+    caption: "Fig. 4 - Giambologna, *Venere*, Firenze, Palazzo Pitti, Giardini di Boboli, Grotta Grande"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/90ef9283-751d-442c-9430-8b77bf8a3bf0/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/90ef9283-751d-442c-9430-8b77bf8a3bf0/canvas/57b229b0-9144-42e6-b1f7-919b8bbf330f
     zoom: true
 
   - id: "cat-9_5"
     src: figures/9_5.jpg
-    caption: "Fig. 5 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 5 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93f57b55-4bb8-43fa-9c6c-be0de470aca3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93f57b55-4bb8-43fa-9c6c-be0de470aca3/canvas/dd7311f2-f5d1-4fd0-ae65-dfc1f3082a8f
     zoom: true
 
   - id: "cat-9_6"
     src: figures/9_6.jpg
-    caption: "Fig. 6 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 6 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f65fe767-e8be-4a2a-8bed-6ccd4f914861/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f65fe767-e8be-4a2a-8bed-6ccd4f914861/canvas/3ae56200-37d1-4fd8-9f57-5cfb391aefaf
     zoom: true
 
   - id: "cat-9_7"
     src: figures/9_7.jpg
-    caption: "Fig. 7 - Gian Lorenzo Bernini (attr. a), Andromeda, collezione privata"
+    caption: "Fig. 7 - Gian Lorenzo Bernini (attr. a), *Andromeda*, collezione privata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9baa3640-c4f2-41d8-b6f1-93b76b964ce7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9baa3640-c4f2-41d8-b6f1-93b76b964ce7/canvas/e1459618-29bd-4424-8e25-f10d381302f8
     zoom: true
 
   - id: "cat-9_8"
     src: figures/9_8.jpg
-    caption: "Fig. 8 - Gian Lorenzo Bernini (attr. a), Andromeda, collezione privata"
+    caption: "Fig. 8 - Gian Lorenzo Bernini (attr. a), *Andromeda*, collezione privata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d4c83542-f1a5-4a11-b43b-6e7cdd9a5b0a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d4c83542-f1a5-4a11-b43b-6e7cdd9a5b0a/canvas/8b3e395a-0dac-41ab-9b0f-a955f868fc45
     zoom: true
 
   - id: "cat-9_9"
     src: figures/9_9.jpg
-    caption: "Fig. 9 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 9 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9ebc0016-928d-4c02-a173-ca861b1553ea/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9ebc0016-928d-4c02-a173-ca861b1553ea/canvas/f7a5d458-ea2f-41a4-bbaa-b4582ab9c09e
     zoom: true
 
   - id: "cat-9_10"
     src: figures/9_10.jpg
-    caption: "Fig. 10 - Gian Lorenzo Bernini (attr. a), Andromeda, collezione privata (particolare)"
+    caption: "Fig. 10 - Gian Lorenzo Bernini (attr. a), *Andromeda*, collezione privata (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f8f6dc7a-cfad-45f5-8f01-14acb8085966/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f8f6dc7a-cfad-45f5-8f01-14acb8085966/canvas/32cf8995-f76a-4d34-be4b-b1635047549f
     zoom: true
 
   - id: "cat-9_11"
     src: figures/9_11.jpg
-    caption: "Fig. 11 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 11 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0264bf85-66dc-4783-95d2-4a9cca5592e5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0264bf85-66dc-4783-95d2-4a9cca5592e5/canvas/5eee4b7e-f185-40c8-a86e-58a600cd2de5
     zoom: true
 
   - id: "cat-9_12"
     src: figures/9_12.jpg
-    caption: "Fig. 12 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 12 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6380e0d2-4995-4d6e-ad36-73bb9416cb3e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6380e0d2-4995-4d6e-ad36-73bb9416cb3e/canvas/edbbd6ac-91be-4643-a1bf-76b4be9c9259
     zoom: true
 
   - id: "cat-9_13"
     src: figures/9_13.jpg
-    caption: "Fig. 13 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 13 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c679e790-2113-4e2b-aed8-843bb57a152b/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c679e790-2113-4e2b-aed8-843bb57a152b/canvas/75c46e42-2e14-41af-ae10-176c7c975913
     zoom: true
 
   - id: "cat-9_14"
     src: figures/9_14.jpg
-    caption: "Fig. 14 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 14 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8c53bbf9-aebe-4e16-b9e9-0c89d76a84d5/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8c53bbf9-aebe-4e16-b9e9-0c89d76a84d5/canvas/771af61e-fef8-4cb2-9dfe-776f43eec06b
     zoom: true
 
   - id: "cat-9_15"
     src: figures/9_15.jpg
-    caption: "Fig. 15 - ph Magliani 2021 (Pietro Bernini, Andromeda, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 15 - Pietro Bernini, *Andromeda*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d9ece3af-d2b3-4032-883c-e6362f938d76/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d9ece3af-d2b3-4032-883c-e6362f938d76/canvas/823636fc-ddd3-4635-9f80-67e745ba03c4
     zoom: true
 
   - id: "cat-10"
     src: figures/10.jpg
-    caption: "COVER - Pietro Bernini, allegoria della Virtù vittoriosa sul Vizio, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "Pietro Bernini, *Allegoria della Virtù vittoriosa sul Vizio*, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
     zoom: true
 
   - id: "cat-10_1"
     src: figures/10_1.jpg
-    caption: "Fig. 1- ph Magliani 2021 (Pietro Bernini, La Virtù sottomette il Vizio, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 1- Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3fd171-6cc6-4004-8bcd-908ec26296ca/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9e3fd171-6cc6-4004-8bcd-908ec26296ca/canvas/03068412-bea5-45de-bfc1-bdfe0e5ba02d
     zoom: true
 
   - id: "cat-10_2"
     src: figures/10_2.jpg
-    caption: "Fig. 2- ph Magliani 2021 (Pietro Bernini, La Virtù sottomette il Vizio, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 2- Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12d754cc-95da-4c43-bcb9-d5b4d0459a81/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/12d754cc-95da-4c43-bcb9-d5b4d0459a81/canvas/f7ac6cf5-113c-40a2-869f-1ad6af0bfd38
     zoom: true
 
   - id: "cat-10_3"
     src: figures/10_3.jpg
-    caption: "Fig. 3- ph Magliani 2021 (Pietro Bernini, La Virtù sottomette il Vizio, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 3- Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1543bb18-ab5c-44cc-bc8c-bc89c6d90c34/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1543bb18-ab5c-44cc-bc8c-bc89c6d90c34/canvas/946db2f0-9d27-42fb-a406-cba7ba451a53
     zoom: true
 
   - id: "cat-10_4"
     src: figures/10_4.jpg
-    caption: "Fig. 4 - Pietro Bernini, Assunzione della Vergine, Roma, Basilica Papale di Santa Maria Maggiore, Battistero"
+    caption: "Fig. 4 - Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/64ca8e09-6159-49b9-bf6b-dd1860c0f1e4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/64ca8e09-6159-49b9-bf6b-dd1860c0f1e4/canvas/39bc363a-1b88-4e2c-ae98-7c29a8cd4822
     zoom: true
 
   - id: "cat-10_5"
     src: figures/10_5.jpg
-    caption: "Fig. 5 - Pietro Bernini, Assunzione della Vergine, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare)"
+    caption: "Fig. 5 - Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/359a1926-09bc-4f09-ad10-0c771b4170cf/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/359a1926-09bc-4f09-ad10-0c771b4170cf/canvas/838a3b61-c5df-4419-bb61-62cdb22de1e7
     zoom: true
 
   - id: "cat-10_6"
     src: figures/10_6.jpg
-    caption: "Fig. 6 - ph Magliani 2021 (Pietro Bernini, La Virtù sottomette il Vizio, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 6 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/792b65f4-c213-4861-89ce-cc939d83a7a0/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/792b65f4-c213-4861-89ce-cc939d83a7a0/canvas/d1364f2c-de48-4fcc-82d9-afb81efb1978
     zoom: true
 
   - id: "cat-10_7"
     src: figures/10_7.jpg
-    caption: "Fig. 7- Pietro Bernini, Assunzione della Vergine, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare)"
+    caption: "Fig. 7- Pietro Bernini, *Assunzione della Vergine*, Roma, Basilica Papale di Santa Maria Maggiore, Battistero (particolare"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f0a959ec-0c49-4601-bb1f-5360201ec490/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f0a959ec-0c49-4601-bb1f-5360201ec490/canvas/982db771-037a-4d56-8a5e-971c2d4a2843
     zoom: true
 
   - id: "cat-10_8"
     src: figures/10_8.jpg
-    caption: "Fig. 8 - ph Magliani 2021 (Pietro Bernini, La Virtù sottomette il Vizio, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 8 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b4c164dd-7176-4bc6-a058-c9a3b3217ed7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b4c164dd-7176-4bc6-a058-c9a3b3217ed7/canvas/c558cac0-4930-4cae-987f-5f3e377d5320
     zoom: true
 
   - id: "cat-10_9"
     src: figures/10_9.jpg
-    caption: "Fig. 9 - Pietro e Gian Lorenzo Bernini, Baccanale. New York, Metropolitan Museum of Art (inv. n. 1976.92)"
+    caption: "Fig. 9 - Pietro e Gian Lorenzo Bernini, *Baccanale*, New York, Metropolitan Museum of Art (inv. n. 1976.92"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9ce915a0-aad3-441e-8994-2f7a74c8230d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9ce915a0-aad3-441e-8994-2f7a74c8230d/canvas/183383b5-7d1a-4420-a87e-18eaab17a8ab
     zoom: true
 
   - id: "cat-10_10"
     src: figures/10_10.jpg
-    caption: "Fig. 10 - ph Magliani 2021 (Pietro Bernini, La Virtù sottomette il Vizio, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 10 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b37e56d2-9205-499e-a8d7-21c0fb8f5384/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b37e56d2-9205-499e-a8d7-21c0fb8f5384/canvas/b10bb376-16c9-4838-b5f9-b805f9df8e1e
     zoom: true
 
   - id: "cat-10_11"
     src: figures/10_11.jpg
-    caption: "Fig. 11 - Giambologna, Ercole e il centauro Nesso. Firenze, Piazza della Signoria, Loggia dei Lanzi"
+    caption: "Fig. 11 - Giambologna, *Ercole e il centauro Nesso*, Firenze, Piazza della Signoria, Loggia dei Lanzi"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93644a82-15ce-4423-ac1a-480665e2431a/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/93644a82-15ce-4423-ac1a-480665e2431a/canvas/a795adf1-b270-4e21-aa99-8f8c9cba1445
     zoom: true
 
   - id: "cat-10_12"
     src: figures/10_12.jpg
-    caption: "Fig. 12 - ph Magliani 2021 (Pietro Bernini, La Virtù sottomette il Vizio, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 12 - Pietro Bernini, *La Virtù sottomette il Vizio*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/270688f6-e0e4-4543-a2d7-dc45955da280/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/270688f6-e0e4-4543-a2d7-dc45955da280/canvas/5d3fbf64-a461-42a5-85f2-2de25ce0c196
     zoom: true
     
-  - id: "cat-10"
-    src: figures/10.jpg
-    caption: "Pietro Bernini, *Allegoria della Virtù vittoriosa sul Vizio*, Collezione Zeri, Accademia Carrara, Bergamo"
-    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/manifest
-    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/v3/67c6d4f1-e1ab-4cd4-bbe3-b34204311641/canvas/a14b1765-5707-422b-a5c2-c0daa8bdd0e2
-    zoom: true
-
   - id: "cat-14"
     src: figures/14.jpg
     caption: "Scultore attivo a Roma, *Testa di Socrate*, prima metà XVII sec, Collezione Zeri, Accademia Carrara, Bergamo"
@@ -1003,84 +996,84 @@ figure_list:
 
   - id: "cat-14_1"
     src: figures/14_1.jpg
-    caption: "Fig. 1 - Ritratto di Socrate, tipo B, fine I sec. o inizio II sec. d. C., Parigi, Musée du Louvre (Louvre Abu Dhabi)"
+    caption: "Fig. 1 - *Ritratto di Socrate*, tipo B, fine I sec. o inizio II sec. d. C., Parigi, Musée du Louvre (Louvre Abu Dhabi"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7d9b199e-e894-4c32-a443-e7d6097b4fac/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7d9b199e-e894-4c32-a443-e7d6097b4fac/canvas/8b67e981-c7ff-4d58-bb65-e1ce8a43e223
     zoom: true
 
   - id: "cat-14_2"
     src: figures/14_2.jpg
-    caption: "Fig. 2 - Ritratto di Socrate, tipo A, fine I sec. o inizio II sec. d. C., Napoli, Museo Archeologico Nazionale, inv. n. 6129"
+    caption: "Fig. 2 - *Ritratto di Socrate*, tipo A, fine I sec. o inizio II sec. d. C., Napoli, Museo Archeologico Nazionale, inv. n. 6129"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c87a802-7f6b-4c18-a8ad-9032f4c8a980/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7c87a802-7f6b-4c18-a8ad-9032f4c8a980/canvas/50bfefae-d94e-4638-807b-44d72d2dc756
     zoom: true
 
   - id: "cat-14_3"
     src: figures/14_3.jpg
-    caption: "FIG. 3 - Scultore attivo a Roma prima metà XVII sec., testa di Socrate, Collezione Zeri, Accademia Carrara, Bergamo"
+    caption: "FIG. 3 - Scultore attivo a Roma prima metà XVII sec., *Testa di Socrate*, Collezione Zeri, Accademia Carrara, Bergamo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b59e236-52e7-4639-8f09-a11de24cf654/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0b59e236-52e7-4639-8f09-a11de24cf654/canvas/4a6d328b-2f75-49a9-8f4e-e5a7f44dcf6f
     zoom: true
 
   - id: "cat-14_4"
     src: figures/14_4.jpg
-    caption: "Fig. 4 - ph Magliani 2021 (Scultore attivo a Roma, prima metà del secolo XVII, Testa di Socrate, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 4 - Scultore attivo a Roma, prima metà del secolo XVII, *Testa di Socrate*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ca0c5e60-3e26-43a9-8108-1b104e26f78d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/ca0c5e60-3e26-43a9-8108-1b104e26f78d/canvas/dadd71c6-3749-4d08-94d3-2054a199bd54
     zoom: true
 
   - id: "cat-14_5"
     src: figures/14_5.jpg
-    caption: "Fig. 5 - Paulus Pontius (da un disegno di Peter Paul Rubens), Socrate, Bergamo, Accademia Carrara, inv. n. STP03107"
+    caption: "Fig. 5 - Paulus Pontius (da un disegno di Peter Paul Rubens), *Socrate*, Bergamo, Accademia Carrara, inv. n. STP03107"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eff6afd0-0859-4611-b257-525e89c2af4f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/eff6afd0-0859-4611-b257-525e89c2af4f/canvas/e1518fe7-4642-44ec-9ae7-dbc3ac894678
     zoom: true
 
   - id: "cat-14_6"
     src: figures/14_6.jpg
-    caption: "Fig. 6 - ph Magliani 2021 (Scultore attivo a Roma, prima metà del secolo XVII, Testa di Socrate, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 6 - Scultore attivo a Roma, prima metà del secolo XVII, *Testa di Socrate*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3c611f3a-f099-4192-9154-8f0085e7e511/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3c611f3a-f099-4192-9154-8f0085e7e511/canvas/61291c2e-82e5-459e-b295-9c0fb0c462df
     zoom: true
 
   - id: "cat-14_7"
     src: figures/14_7.jpg
-    caption: "Fig. 7 - Testa di Sileno, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher)"
+    caption: "Fig. 7 - *Testa di Sileno*, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d40da683-4241-4aa9-a29f-2a89d34d301d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d40da683-4241-4aa9-a29f-2a89d34d301d/canvas/db18685c-7f4c-4d70-b776-365091830c1c
     zoom: true
 
   - id: "cat-14_8"
     src: figures/14_8.jpg
-    caption: "Fig. 8 - Testa di Sileno, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher)"
+    caption: "Fig. 8 - Testa di Sileno, I o II sec. d. C., collezione privata (già Vienna, Christoph Bacher"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd499a12-0fbf-4f0f-9202-06f886519a0d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bd499a12-0fbf-4f0f-9202-06f886519a0d/canvas/a40b55c0-79cc-4371-8042-4047885689da
     zoom: true
 
   - id: "cat-14_9"
     src: figures/14_9.jpg
-    caption: "Fig. 9 - ph Magliani 2021 (Scultore attivo a Roma, prima metà del secolo XVII, Testa di Socrate, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 9 - Scultore attivo a Roma, prima metà del secolo XVII, *Testa di Socrate*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9813cb33-2404-4fb6-9a71-7376db90b084/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9813cb33-2404-4fb6-9a71-7376db90b084/canvas/cf73ea93-685f-44d1-b217-c5a13ca5ebab
     zoom: true
 
   - id: "cat-14_10"
     src: figures/14_10.jpg
-    caption: "Fig. 10 - Charles Malaise, Ritratto di Socrate, collezione privata_segnaposto"
+    caption: "Fig. 10 - Charles Malaise, *Ritratto di Socrate*, collezione privata"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e0d14b26-37f8-4713-bcd7-84be681b47ba/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e0d14b26-37f8-4713-bcd7-84be681b47ba/canvas/3cf11cd6-7ef5-4f66-886a-b5efacb5ed45
     zoom: true
 
   - id: "cat-14_11"
     src: figures/14_11.jpg
-    caption: "Fig. 11 - Anonimo scultore (fiorentino?), Ritratto di Socrate, collezione privata (Pandolfini)"
+    caption: "Fig. 11 - Anonimo scultore (fiorentino?), *Ritratto di Socrate*, collezione privata (Pandolfini"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8820a624-1f5d-44c3-944a-a37952b9f478/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8820a624-1f5d-44c3-944a-a37952b9f478/canvas/c739de28-f2b6-4dd6-9d43-8b28870b9e6e
     zoom: true
 
   - id: "cat-14_12"
     src: figures/14_12.jpg
-    caption: "Fig. 12 - ph Magliani 2021 (Scultore attivo a Roma, prima metà del secolo XVII, Testa di Socrate, Archivi Accademia Carrara, Archivio fotografico)."
+    caption: "Fig. 12 - Scultore attivo a Roma, prima metà del secolo XVII, *Testa di Socrate*, Archivi Accademia Carrara, Archivio fotografico."
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e7a70de-e8d2-4bed-a2de-cb6a2cfec527/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/8e7a70de-e8d2-4bed-a2de-cb6a2cfec527/canvas/741fc664-5ec3-45a4-b8da-3d9d9602e694
     zoom: true
@@ -1094,112 +1087,112 @@ figure_list:
 
   - id: "cat-15_1"
     src: figures/15_1.jpg
-    caption: "Fig. 1 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 1 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5aad2c13-7a0a-48e5-89d1-f60ee360c94f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5aad2c13-7a0a-48e5-89d1-f60ee360c94f/canvas/c9c70c98-1a89-4151-8e62-8b00f190de96
     zoom: true
 
   - id: "cat-15_2"
     src: figures/15_2.jpg
-    caption: "Fig. 2 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 2 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e697681c-89c4-4ff0-b8ef-5676f9b2ef2d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e697681c-89c4-4ff0-b8ef-5676f9b2ef2d/canvas/2f1e3d62-cb81-4ab4-8662-abad5f40c369
     zoom: true
 
   - id: "cat-15_3"
     src: figures/15_3.jpg
-    caption: "Fig. 3 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 3 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6b078a19-31e9-4de6-bbb9-47872aa63fd3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6b078a19-31e9-4de6-bbb9-47872aa63fd3/canvas/648857af-d780-4fbf-9b64-c9b9f6b8cc97
     zoom: true
 
   - id: "cat-15_4"
     src: figures/15_4.jpg
-    caption: "Fig. 4 - Alessandro Algardi, Domenico Guidi, Busto del cardinale Paolo Emilio Zacchia, Firenze, Museo Nazionale del Bargello_segnaposto"
+    caption: "Fig. 4 - Alessandro Algardi, Domenico Guidi, *Busto del cardinale Paolo Emilio Zacchia*, Firenze, Museo Nazionale del Bargello"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d0a2334e-20eb-4b51-8ed8-db9e0fd90d50/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d0a2334e-20eb-4b51-8ed8-db9e0fd90d50/canvas/bed9b09b-f3c5-4564-a1c2-5d012c63544a
     zoom: true
 
   - id: "cat-15_5"
     src: figures/15_5.jpg
-    caption: "Fig. 5 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 5 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09827038-89f1-48f0-a602-ce88753fc4cb/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/09827038-89f1-48f0-a602-ce88753fc4cb/canvas/76b84266-01a9-43bf-99de-703c796c03fb
     zoom: true
 
   - id: "cat-15_6"
     src: figures/15_6.jpg
-    caption: "Fig. 6 - Domenico Guidi, Domenico Guidi, Busti dei cardinali Paolo Emilio, Laudivio Zacchia e Paolo Emilio Rondinini, 1669-1675 circa, Roma, Palazzo Massimo Lancellotti_segnaposto"
+    caption: "Fig. 6 - Domenico Guidi, Domenico Guidi, *Busti dei cardinali Paolo Emilio, Laudivio Zacchia e Paolo Emilio Rondinini*, 1669-1675 circa, Roma, Palazzo Massimo Lancellotti"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bba74b57-a590-4dd4-a5a8-d8e977053ab4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bba74b57-a590-4dd4-a5a8-d8e977053ab4/canvas/13cccc1d-5600-42c0-8243-097003e10115
     zoom: true
 
   - id: "cat-15_7"
     src: figures/15_7.jpg
-    caption: "Fig. 7 - Domenico Guidi, Busto di Felice Zacchia, 1669-1675 circa, Strasburgo, Musée des Beaux-Arts"
+    caption: "Fig. 7 - Domenico Guidi, *Busto di Felice Zacchia*, 1669-1675 circa, Strasburgo, Musée des Beaux-Arts"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1c9ec032-3fe3-49ae-a8c4-972c4b4ef730/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/1c9ec032-3fe3-49ae-a8c4-972c4b4ef730/canvas/9f1c9062-f003-4bfb-8a5d-80fb0fa59d2e
     zoom: true
 
   - id: "cat-15_8"
     src: figures/15_8.jpg
-    caption: "Fig. 8 - Alessandro Algardi o Giuliano Finelli (?), Busto di Natale Rondinini (?), seconda metà del XVII secolo, Bode Museum"
+    caption: "Fig. 8 - Alessandro Algardi o Giuliano Finelli (?), *Busto di Natale Rondinini (?)*, seconda metà del XVII secolo, Bode Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aa74fe16-d0cb-47e8-b878-19d14b88681f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/aa74fe16-d0cb-47e8-b878-19d14b88681f/canvas/6c669f86-0fb4-40ab-bd05-8d6b8fba27f4
     zoom: true
 
   - id: "cat-15_9"
     src: figures/15_9.jpg
-    caption: "Fig. 9 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 9 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bcbedd52-d621-43bc-a8f2-0d8ad757f63f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/bcbedd52-d621-43bc-a8f2-0d8ad757f63f/canvas/6863c6af-7b47-4558-acdc-49a2e3c5cc1f
     zoom: true
 
   - id: "cat-15_10"
     src: figures/15_10.jpg
-    caption: "Fig. 10 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 10 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c55340ee-cc82-47ce-b7e6-4595d0ccd610/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c55340ee-cc82-47ce-b7e6-4595d0ccd610/canvas/60e9da44-d04d-400e-b63d-43723aec2b31
     zoom: true
 
   - id: "cat-15_11"
     src: figures/15_11.jpg
-    caption: "Fig. 11 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 11 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/07ab1054-70b9-4651-9c44-42a6cbcaafd3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/07ab1054-70b9-4651-9c44-42a6cbcaafd3/canvas/5f6965c6-b035-42ea-a2ee-bfa76c5762a7
     zoom: true
 
   - id: "cat-15_12"
     src: figures/15_12.jpg
-    caption: "Fig. 12 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 12 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b46b4a35-6018-4e81-989d-c5af69c22e59/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/b46b4a35-6018-4e81-989d-c5af69c22e59/canvas/4f2a2411-88d4-417e-a53f-652ce6b4c2d1
     zoom: true
 
   - id: "cat-15_13"
     src: figures/15_13.jpg
-    caption: "Fig. 13 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 13 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/824c4b53-9788-4a06-8bc9-b41611d4da50/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/824c4b53-9788-4a06-8bc9-b41611d4da50/canvas/8c5f5231-16c2-4bac-9cd3-b58d5b0ff342
     zoom: true
 
   - id: "cat-15_14"
     src: figures/15_14.jpg
-    caption: "Fig. 14 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 14 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e3daf2c9-3b33-4f7a-be49-6c3aa44d4eda/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e3daf2c9-3b33-4f7a-be49-6c3aa44d4eda/canvas/28f09779-10ac-40df-93dd-fd6e71878e34
     zoom: true
 
   - id: "cat-15_15"
     src: figures/15_15.jpg
-    caption: "Fig. 15 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 15 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7757b77c-b269-423e-9e16-44145cc0e074/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7757b77c-b269-423e-9e16-44145cc0e074/canvas/17324d48-3e7a-4359-a80c-a7d9f9a35b19
     zoom: true
 
   - id: "cat-15_16"
     src: figures/15_16.jpg
-    caption: "Fig. 16 - ph Magliani 2021 (Domenico Guidi, busto di Alessandro Rondinini, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 16 - Domenico Guidi, *Busto di Alessandro Rondinini*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/78fe7cf4-6c62-46ed-b73f-cb52b9a5eeec/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/78fe7cf4-6c62-46ed-b73f-cb52b9a5eeec/canvas/9e072d52-bea0-42f7-b396-d464d17c5828
     zoom: true
@@ -1213,84 +1206,84 @@ figure_list:
 
   - id: "cat-16_1"
     src: figures/16_1.jpg
-    caption: "Fig. 1 - Antoine Masson (disegno e incisione), Ritratto del cardinale Toussaint de Forbin-Janson, 1672"
+    caption: "Fig. 1 - Antoine Masson (disegno e incisione), *Ritratto del cardinale Toussaint de Forbin-Janson*, 1672"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c309e0e-f9a7-4177-b18f-aa39a0f6622f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/0c309e0e-f9a7-4177-b18f-aa39a0f6622f/canvas/7b4aac05-024f-404d-8196-6f77846c993e
     zoom: true
 
   - id: "cat-16_2"
     src: figures/16_2.jpg
-    caption: "Fig. 2 - ph Magliani 2021 (Scultore attivo a Roma, Busto del cardinale Toussaint de Forbin-Janson, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 2 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/da32d906-b9f0-4590-83f7-6d14b5107009/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/da32d906-b9f0-4590-83f7-6d14b5107009/canvas/df7fa9f3-815d-40ec-b78a-19fb19d584a4
     zoom: true
 
   - id: "cat-16_3"
     src: figures/16_3.jpg
-    caption: "Fig. 3 - ph Magliani 2021 (Scultore attivo a Roma, Busto del cardinale Toussaint de Forbin-Janson, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 3 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3e5a7bc2-8115-4b91-b610-647328acd3c7/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3e5a7bc2-8115-4b91-b610-647328acd3c7/canvas/e47b37e0-1782-4143-aae2-0f9aad336bf4
     zoom: true
 
   - id: "cat-16_4"
     src: figures/16_4.jpg
-    caption: "Fig. 4 - ph Magliani 2021 (Scultore attivo a Roma, Busto del cardinale Toussaint de Forbin-Janson, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 4 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3184e0d6-b278-48ff-a5d0-8518546e77dd/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3184e0d6-b278-48ff-a5d0-8518546e77dd/canvas/d970d789-d6f8-46d0-b199-ec67db9369b8
     zoom: true
 
   - id: "cat-16_5"
     src: figures/16_5.jpg
-    caption: "Fig. 5 – Jacques Cundier (incisione), Ritratto del cardinale Toussaint de Forbin-Janson, 1669, Vienna, Österreichischen Nationalbibliothek"
+    caption: "Fig. 5 – Jacques Cundier (incisione), *Ritratto del cardinale Toussaint de Forbin-Janson*, 1669, Vienna, Österreichischen Nationalbibliothek"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fe3c713e-57fd-4a5a-960b-efb67adcd4a4/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/fe3c713e-57fd-4a5a-960b-efb67adcd4a4/canvas/aaccef20-bbd2-43d1-8af2-b21fa4a05cf2
     zoom: true
 
   - id: "cat-16_6"
     src: figures/16_6.jpg
-    caption: "Fig. 6 - Jacques Blondeau (incisione), Ritratto del cardinale Toussaint de Forbin-Janson, post 1690, Londra, British Museum"
+    caption: "Fig. 6 - Jacques Blondeau (incisione), *Ritratto del cardinale Toussaint de Forbin-Janson*, post 1690, Londra, British Museum"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3f62ff7f-aeec-4b4b-98a1-6706d99fcc81/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3f62ff7f-aeec-4b4b-98a1-6706d99fcc81/canvas/2aa23d4f-3b73-4602-a99e-d0dcea473dd3
     zoom: true
 
   - id: "cat-16_7"
     src: figures/16_7.jpg
-    caption: "Fig. 7 - Nicolas e Guillaime Coustou, Ritratto del cardinale Toussaint de Forbin-Janson, 1716-1738, Beauvais, Cattedrale di San Pietro_segnaposto"
+    caption: "Fig. 7 - Nicolas e Guillaime Coustou, *Ritratto del cardinale Toussaint de Forbin-Janson*, 1716-1738, Beauvais, Cattedrale di San Pietro"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a898aa7a-1160-4504-b541-4cfd6ceebc3d/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/a898aa7a-1160-4504-b541-4cfd6ceebc3d/canvas/66e7ba78-9019-4b7b-b1d8-a418f80514cc
     zoom: true
 
   - id: "cat-16_8"
     src: figures/16_8.jpg
-    caption: "Fig. 8 - ph Magliani 2021 (Scultore attivo a Roma, Busto del cardinale Toussaint de Forbin-Janson, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 8 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6595d690-8c54-49d1-99af-950f0774b273/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6595d690-8c54-49d1-99af-950f0774b273/canvas/04300bc3-c3da-4386-b500-f26749f89db1
     zoom: true
 
   - id: "cat-16_9"
     src: figures/16_9.jpg
-    caption: "Fig. 9 - ph Magliani 2021 (Scultore attivo a Roma, Busto del cardinale Toussaint de Forbin-Janson, Archivi Accademia"
+    caption: "Fig. 9 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/03ca198d-ad20-4ddd-a71e-20c2a5c929ec/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/03ca198d-ad20-4ddd-a71e-20c2a5c929ec/canvas/feba93bd-7573-402e-ae50-7c029ca3788b
     zoom: true
 
   - id: "cat-16_10"
     src: figures/16_10.jpg
-    caption: "Fig. 10 - ph Magliani 2021 (Scultore attivo a Roma, Busto del cardinale Toussaint de Forbin-Janson, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 10 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2048b31-3edd-4efd-86b0-3125cd8d78cc/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e2048b31-3edd-4efd-86b0-3125cd8d78cc/canvas/72355c98-f354-43cb-b4e2-d1e76fd50d2c
     zoom: true
 
   - id: "cat-16_11"
     src: figures/16_11.jpg
-    caption: "Fig. 11 - ph Magliani 2021 (Scultore attivo a Roma, Busto del cardinale Toussaint de Forbin-Janson, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 11 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/dd0dedaf-a6bf-4913-a160-b861fea933e6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/dd0dedaf-a6bf-4913-a160-b861fea933e6/canvas/eb5d2f97-508a-43ca-8b8e-1a872819bd59
     zoom: true
 
   - id: "cat-16_12"
     src: figures/16_12.jpg
-    caption: "Fig. 12 - ph Magliani 2021 (Scultore attivo a Roma, Busto del cardinale Toussaint de Forbin-Janson, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 12 - Scultore attivo a Roma, *Busto del cardinale Toussaint de Forbin-Janson*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e667e53-9a93-4101-9147-ff8707dbb53e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4e667e53-9a93-4101-9147-ff8707dbb53e/canvas/85550f4d-8eac-4dce-a78d-91ef4a6d65be
     zoom: true
@@ -1304,154 +1297,154 @@ figure_list:
 
   - id: "cat-18_1"
     src: figures/18_1.jpg
-    caption: "Fig. 1 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 1 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c04617c3-61e5-49f0-b547-a54431020099/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c04617c3-61e5-49f0-b547-a54431020099/canvas/0be60d81-09cb-43b4-8d7e-19f91bcf10df
     zoom: true
 
   - id: "cat-18_2"
     src: figures/18_2.jpg
-    caption: "Fig. 2 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 2 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/843c9390-3c6e-426b-bfb8-bff454001b2f/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/843c9390-3c6e-426b-bfb8-bff454001b2f/canvas/d14eabe7-e448-4ed4-ac55-ff9b147efec0
     zoom: true
 
   - id: "cat-18_3"
     src: figures/18_3.jpg
-    caption: "Fig. 3 - Giuseppe Lironi, Giustizia, Roma, San Giovanni in Laterano, Cappella Corsini (Fondazione Federico Zeri, Archivio fotografico, Anderson, n. inv. 149286"
+    caption: "Fig. 3 - Giuseppe Lironi, *Giustizia*, Roma, San Giovanni in Laterano, Cappella Corsini (Fondazione Federico Zeri, Archivio fotografico, Anderson, n. inv. 149286)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/21ec761f-be09-448c-bb1f-a4304771b628/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/21ec761f-be09-448c-bb1f-a4304771b628/canvas/d7620696-ff77-4953-9224-ffae221a8660
     zoom: true
 
   - id: "cat-18_4"
     src: figures/18_4.jpg
-    caption: "Fig. 4 - Ignazio Francesco Marabitti, San Paolo, Siracusa, Duomo_segnaposto"
+    caption: "Fig. 4 - Ignazio Francesco Marabitti, *San Paolo*, Siracusa, Duomo"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d15a67e9-bafd-49d0-870e-fbcb9fe638ea/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d15a67e9-bafd-49d0-870e-fbcb9fe638ea/canvas/f9c9b577-b81d-4aa3-adab-b3c2bbdf43a8
     zoom: true
 
   - id: "cat-18_5"
     src: figures/18_5.jpg
-    caption: "Fig. 5 - Ignazio Francesco Marabitti, San Paolo, Monreale, Museo Diocesano (da «Napoli nobilissima», XV, 3-4, maggio-agosto 1976, p. 96, fig. 41)_segnaposto"
+    caption: "Fig. 5 - Ignazio Francesco Marabitti, *San Paolo*, Monreale, Museo Diocesano (da «Napoli nobilissima», XV, 3-4, maggio-agosto 1976, p. 96, fig. 41)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/502a574d-b622-4b48-b539-7a4dccdebaf9/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/502a574d-b622-4b48-b539-7a4dccdebaf9/canvas/b09d046e-bfa9-44ed-8d41-6993acd52181
     zoom: true
 
   - id: "cat-18_6"
     src: figures/18_6.jpg
-    caption: "Fig. 6 - Girolamo Ticciati, San Giacomo Maggiore, Mafra, Nossa Senhora e Santo António"
+    caption: "Fig. 6 - Girolamo Ticciati, *San Giacomo Maggiore*, Mafra, Nossa Senhora e Santo António"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/14da2402-da8a-45d8-8829-0a2caea6e462/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/14da2402-da8a-45d8-8829-0a2caea6e462/canvas/426e908a-fb0e-4d5f-a9cf-c90b404f5aa0
     zoom: true
 
   - id: "cat-18_7"
     src: figures/18_7.jpg
-    caption: "Fig. 7 - Girolamo Ticciati, San Matteo, Milano, Collezione Etro (Catalogo asta Pandolfini 11 ottobre 2017, lotto 8)"
+    caption: "Fig. 7 - Girolamo Ticciati, *San Matteo*, Milano, Collezione Etro (Catalogo asta Pandolfini 11 ottobre 2017, lotto 8)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c0682bc5-fd26-4429-b702-0c4078ab7020/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c0682bc5-fd26-4429-b702-0c4078ab7020/canvas/0513bdc2-6dfe-4340-abbf-f9c5ba1e7207
     zoom: true
 
   - id: "cat-18_8"
     src: figures/18_8.jpg
-    caption: "Fig. 8 - Girolamo Ticciati, Busto di Giovanni da Verrazzano, Washington, National Gallery of Art"
+    caption: "Fig. 8 - Girolamo Ticciati, *Busto di Giovanni da Verrazzano*, Washington, National Gallery of Art"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c924e1f8-a7cb-4849-a77b-bb130c297852/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/c924e1f8-a7cb-4849-a77b-bb130c297852/canvas/be4d7dfd-4ff2-40b0-804a-85c3ad835e28
     zoom: true
 
   - id: "cat-18_9"
     src: figures/18_9.jpg
-    caption: "Fig. 9 - Girolamo Ticciati, San Giacomo Maggiore, Mafra, Palazzo Nazionale"
+    caption: "Fig. 9 - Girolamo Ticciati, *San Giacomo Maggiore*, Mafra, Palazzo Nazionale"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7bdd11f0-d5ec-4360-9452-a94d21e28cae/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/7bdd11f0-d5ec-4360-9452-a94d21e28cae/canvas/b477b4cb-173d-451b-8c96-dd7503fa89fa
     zoom: true
 
   - id: "cat-18_10"
     src: figures/18_10.jpg
-    caption: "Fig. 10 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 10 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6737f067-9fcf-4f29-a848-0335644590f2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/6737f067-9fcf-4f29-a848-0335644590f2/canvas/16a4cf0a-bcac-488c-844b-2b23ec221961
     zoom: true
 
   - id: "cat-18_11"
     src: figures/18_11.jpg
-    caption: "Fig. 11 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 11 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9634c8b4-8cc2-4fbd-84e2-bea87d3c37ed/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/9634c8b4-8cc2-4fbd-84e2-bea87d3c37ed/canvas/67adbb15-3a23-4b38-80aa-813c1a9d8290
     zoom: true
 
   - id: "cat-18_12"
     src: figures/18_12.jpg
-    caption: "Fig. 12 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 12 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f72b360e-1d78-48a8-94b7-d2d9dfd670ff/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/f72b360e-1d78-48a8-94b7-d2d9dfd670ff/canvas/88acf737-75aa-4872-b32a-1ea4ea88d6d4
     zoom: true
 
   - id: "cat-18_13"
     src: figures/18_13.jpg
-    caption: "Fig. 13 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 13 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e61422d5-a621-4043-ad50-b4632c44403e/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e61422d5-a621-4043-ad50-b4632c44403e/canvas/0eab56c8-f75d-4c2c-877b-b1b02d26fd97
     zoom: true
 
   - id: "cat-18_14"
     src: figures/18_14.jpg
-    caption: "Fig. 14 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 14 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/57054bd7-57bb-41a0-af49-37d6e9b27f93/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/57054bd7-57bb-41a0-af49-37d6e9b27f93/canvas/ecf052d5-b3dd-45aa-a49e-2744d030f7de
     zoom: true
 
   - id: "cat-18_15"
     src: figures/18_15.jpg
-    caption: "Fig. 15 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 15 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c3965a9-5366-46f0-8876-d258da912a1c/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5c3965a9-5366-46f0-8876-d258da912a1c/canvas/d8d6e23c-c003-407d-8268-408330b5f890
     zoom: true
 
   - id: "cat-18_16"
     src: figures/18_16.jpg
-    caption: "Fig. 16 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 16 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3494ef72-53cc-48de-86b1-e8679eac9a28/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/3494ef72-53cc-48de-86b1-e8679eac9a28/canvas/2df79584-eee7-43db-be26-13c5c2df4546
     zoom: true
 
   - id: "cat-18_17"
     src: figures/18_17.jpg
-    caption: "Fig. 17 - ph Magliani 2021 (Girolamo Ticciati, San Paolo, Archivi Accademia Carrara, Archivio fotografico)"
+    caption: "Fig. 17 - Girolamo Ticciati, *San Paolo*, Archivi Accademia Carrara, Archivio fotografico"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ceff113-857d-4bdf-96ad-00d567618180/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/4ceff113-857d-4bdf-96ad-00d567618180/canvas/f0fd8aef-878d-4c6f-ab8c-a52a92fded84
     zoom: true
 
   - id: "cat-18_18"
     src: figures/18_18.jpg
-    caption: "Fig. 18 - Girolamo Ticciati, San Paolo (particolare)"
+    caption: "Fig. 18 - Girolamo Ticciati, *San Paolo (particolare)*"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/51a46e6c-d6b7-408d-a804-b5751af10cd1/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/51a46e6c-d6b7-408d-a804-b5751af10cd1/canvas/2bc8e1a4-bfd9-4687-aac3-149c0c1a0dc8
     zoom: true
 
-  - id: "cat-26_1"
-    src: figures/26_1.jpg
-    caption: "Fig. 1 – Innocenzo Spinazzi, Ritratto di George Nassau Clevering III Earl of Cowper, 1787"
+  - id: "cat-26"
+    src: figures/26.jpg
+    caption: "Fig. 1 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30506231-34e9-4c11-9045-f5ef275bb441/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/30506231-34e9-4c11-9045-f5ef275bb441/canvas/7c7831b2-ee90-4bc3-95ad-43b3d28461f2
     zoom: true
 
   - id: "cat-26_2"
     src: figures/26_2.jpg
-    caption: "Fig. 2 – Innocenzo Spinazzi, Ritratto di George Nassau Clevering III Earl of Cowper, 1787 (particolare)"
+    caption: "Fig. 2 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5e28d553-f615-44d8-9205-11a0d139d937/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/5e28d553-f615-44d8-9205-11a0d139d937/canvas/9a8d58de-32ff-40f1-aed9-263a971d7566
     zoom: true
 
   - id: "cat-26_3"
     src: figures/26_3.jpg
-    caption: "Fig. 3 – Innocenzo Spinazzi, Ritratto di George Nassau Clevering III Earl of Cowper, 1787 (particolare)"
+    caption: "Fig. 3 – Innocenzo Spinazzi, *Ritratto di George Nassau Clevering III Earl of Cowper*, 1787 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2cf7ba42-3508-4347-bcf4-12c644a1a2e3/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/2cf7ba42-3508-4347-bcf4-12c644a1a2e3/canvas/e07baeb5-dfc8-483d-aec3-5c7274f31f41
     zoom: true
 
   - id: "cat-26_4"
     src: figures/26_4.jpg
-    caption: "Fig. 4 – Innocenzo Spinazzi, Busto di George Clavering Nassau III conte di Cowper, 1787 (particolare)"
+    caption: "Fig. 4 – Innocenzo Spinazzi, *Busto di George Clavering Nassau III conte di Cowper*, 1787 (particolare)"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c52b04-0c82-44c4-86af-11da02152df2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/d8c52b04-0c82-44c4-86af-11da02152df2/canvas/ea805d28-3f35-476a-917a-562513ec0bae
     zoom: true
@@ -1465,14 +1458,14 @@ figure_list:
 
   - id: "cat-26_6"
     src: figures/26_6.jpg
-    caption: "Fig. 6 – Anton Raphael Mengs, Ritratto di George Clavering Nassau III conte di Cowper, 1770-1773, Firenze, Collezione d’arte della Fondazione CR"
+    caption: "Fig. 6 – Anton Raphael Mengs, *Ritratto di George Clavering Nassau III conte di Cowper*, 1770-1773, Firenze, Collezione d’arte della Fondazione CR"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/88f69288-1012-4fb4-b38c-c87dd1a96301/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/88f69288-1012-4fb4-b38c-c87dd1a96301/canvas/faf4269b-eaa6-4b95-88ae-6f365279fe90
     zoom: true
 
   - id: "cat-26_7"
     src: figures/26_7.jpg
-    caption: "Fig. 7 – Innocenzo Spinazzi, Monumento a Niccolò Machiavelli, 1787, Firenze, Basilica di Santa Croce"
+    caption: "Fig. 7 – Innocenzo Spinazzi, *Monumento a Niccolò Machiavelli*, 1787, Firenze, Basilica di Santa Croce"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/77b740ad-f0cf-4c47-b165-420738f3eb10/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/77b740ad-f0cf-4c47-b165-420738f3eb10/canvas/666706d3-72ce-4547-a21f-bf963d976616
     zoom: true
@@ -1486,7 +1479,7 @@ figure_list:
 
   - id: "cat-26_9"
     src: figures/26_9.jpg
-    caption: "Fig. 9 – Innocenzo Spinazzi, Busto di George Clavering Nassau, III conte di Cowper, 1787, Fontanellato, Fondazione Franco Maria"
+    caption: "Fig. 9 – Innocenzo Spinazzi, *Busto di George Clavering Nassau, III conte di Cowper*, 1787, Fontanellato, Fondazione Franco Maria"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97728f30-cd9e-4b19-abc4-d7ec56afbd42/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97728f30-cd9e-4b19-abc4-d7ec56afbd42/canvas/d251d4e7-bf15-4a24-a7d2-5cebcaf0e967
     zoom: true
@@ -1546,94 +1539,3 @@ figure_list:
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/e34fcde0-a432-4253-8729-ed8e4d5b3cf6/canvas/ed987646-01e7-487b-940a-3f04bf38ff8a
     zoom: true
-
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
-
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
-
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
-
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
