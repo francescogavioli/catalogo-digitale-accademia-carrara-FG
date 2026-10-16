@@ -2681,6 +2681,244 @@ figure_list:
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/97728f30-cd9e-4b19-abc4-d7ec56afbd42/canvas/d251d4e7-bf15-4a24-a7d2-5cebcaf0e967
     zoom: true
 
+  - id: "cat-27"
+    src: figures/27.jpg
+    caption: "Tommaso Righi, *Accademie di nudo*, 1760-1765 circa"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_1"
+    src: figures/27_1.jpg
+    caption: "Fig. 1 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_2"
+    src: figures/27_2.jpg
+    caption: "Fig. 2 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_3"
+    src: figures/27_3.jpg
+    caption: "Fig. 3 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_4"
+    src: figures/27_4.jpg
+    caption: "Fig. 4 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_5"
+    src: figures/27_5.jpg
+    caption: "Fig. 5 – Tommaso Righi, *Stucchi*, 1754, Grottaferrata, Monastero di Santa Maria, Abbazia San Nilo"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_6"
+    src: figures/27_6.jpg
+    caption: "Fig. 6 – Tommaso Righi, *Giove tonante*, Roma, Collezione dei principi d’Assia"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_7"
+    src: figures/27_7.jpg
+    caption: "Fig. 7 – Tommaso Righi, *Caino e Abele*, Amburgo, Museum für Kunst und Gewerbe"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_8"
+    src: figures/27_8.jpg
+    caption: "Fig. 8 – Tommaso Righi, *San Giovanni Battista*, Amburgo, Museum für Kunst und Gewerbe"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_9"
+    src: figures/27_9.jpg
+    caption: "Fig. 9 – Domenico Guidi, *Caino e Abele*, Berlino"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_10"
+    src: figures/27_10.jpg
+    caption: "Fig. 10 – Tommaso Righi, *Nudo accademico*, 1755, sanguigna, Roma, Accademia di San Luca"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_11"
+    src: figures/27_11.jpg
+    caption: "Fig. 11 – Vincenzo Pacetti (ambito di), *Nudo d’accademia*, 1770-1780, Roma, VIVE – Vittoriano e Palazzo Venezia, inv. 10421"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_12"
+    src: figures/27_12.jpg
+    caption: "Fig. 12 – Tommaso Righi, *Giudizio di Mida*, stucco, Roma, Villa Borghese"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_13"
+    src: figures/27_13.jpg
+    caption: "Fig. 13 – Tommaso Righi, *Telamoni reggimensola del Salone d’Oro*, Roma, Palazzo Chigi"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_14"
+    src: figures/27_14.jpg
+    caption: "Fig. 14 – Tommaso Righi, *Monumento a Teresa Grillo Pamphilj*, 1764-1765, Assisi, Basilica di Santa Maria degli Angeli"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_15"
+    src: figures/27_15.jpg
+    caption: "Fig. 15 – Tommaso Righi, *Accademia di nudo*, 1770 circa, presentata da Stuart Lochhead alla TEFAF di Maastricht del 2026"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_16"
+    src: figures/27_16.jpg
+    caption: "Fig. 16 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_17"
+    src: figures/27_17.jpg
+    caption: "Fig. 17 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_18"
+    src: figures/27_18.jpg
+    caption: "Fig. 18 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_19"
+    src: figures/27_19.jpg
+    caption: "Fig. 19 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_20"
+    src: figures/27_20.jpg
+    caption: "Fig. 20 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_21"
+    src: figures/27_21.jpg
+    caption: "Fig. 21 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_22"
+    src: figures/27_22.jpg
+    caption: "Fig. 22 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_23"
+    src: figures/27_23.jpg
+    caption: "Fig. 23 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_24"
+    src: figures/27_24.jpg
+    caption: "Fig. 24 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_25"
+    src: figures/27_25.jpg
+    caption: "Fig. 25 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_26"
+    src: figures/27_26.jpg
+    caption: "Fig. 26 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_27"
+    src: figures/27_27.jpg
+    caption: "Fig. 27 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_28"
+    src: figures/27_28.jpg
+    caption: "Fig. 28 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_29"
+    src: figures/27_29.jpg
+    caption: "Fig. 29 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_30"
+    src: figures/27_30.jpg
+    caption: "Fig. 30 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_31"
+    src: figures/27_31.jpg
+    caption: "Fig. 31 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_32"
+    src: figures/27_32.jpg
+    caption: "Fig. 32 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-27_33"
+    src: figures/27_33.jpg
+    caption: "Fig. 33 – Tommaso Righi, *Accademia di nudo*, 1760-1765 circa (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
   - id: "cat-29"
     src: figures/29.jpg
     caption: "Filippo Tagliolini, *Ercole nel giardino delle Esperidi*"
@@ -2896,6 +3134,76 @@ figure_list:
     caption: "Fig. 11- Bartolomeo Cavaceppi (da), *Venere di Roma*, anni Ottanta del XVIII secolo, gesso trattato, Sesto Fiorentino, Museo Ginori"
     manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/442a15e9-e86b-4dac-9a5d-69f41e0ed2f2/manifest
     canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/442a15e9-e86b-4dac-9a5d-69f41e0ed2f2/canvas/d3b06aea-bd2e-4352-8910-b647b1c99cb9
+    zoom: true
+
+  - id: "cat-31_1"
+    src: figures/31_1.jpg
+    caption: "Fig. 1 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (fronte)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_2"
+    src: figures/31_2.jpg
+    caption: "Fig. 2 – Camillo Pacetti, *Giunone*, 1800-1807 circa, terracotta dorata (retro)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_3"
+    src: figures/31_3.jpg
+    caption: "Fig. 3 – Camillo Pacetti, *Cibele*, 1800-1807 circa, terracotta dorata (fronte)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_4"
+    src: figures/31_4.jpg
+    caption: "Fig. 4 – Camillo Pacetti, *Cibele*, 1800-1807 circa, terracotta dorata (retro)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_5"
+    src: figures/31_5.jpg
+    caption: "Fig. 5 – Camillo Pacetti, *Religione* o *Legge Nuova*, 1801, terracotta, Milano, Pinacoteca di Brera, in deposito presso Galleria d’Arte Moderna"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_6"
+    src: figures/31_6.jpg
+    caption: "Fig. 6 – Scultore romano e restauratore settecentesco, *Giunone Cesi*, I secolo a.C., marmo, Roma, Musei Capitolini"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_7"
+    src: figures/31_7.jpg
+    caption: "Fig. 7 – Camillo Pacetti, *Napoleone ispira l’Italia e la fa rinascere a destini più grandi*, 1807, terracotta, Città del Messico, Museo Soumaya"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_8"
+    src: figures/31_8.jpg
+    caption: "Fig. 8 – Camillo Pacetti, *Allegoria della Pace*, 1810-1820, terracotta, Los Angeles, Los Angeles County Museum of Art"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_9"
+    src: figures/31_9.jpg
+    caption: "Fig. 9 – Camillo Pacetti, *Napoleone ispira l’Italia e la fa rinascere a destini più grandi*, 1807, terracotta, Città del Messico, Museo Soumaya (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
+    zoom: true
+
+  - id: "cat-31_10"
+    src: figures/31_10.jpg
+    caption: "Fig. 10 – Camillo Pacetti, *Giunone*, 1800-1807, terracotta dorata (particolare)"
+    manifestId: "da inserire"
+    canvasId: "da inserire"
     zoom: true
 
   - id: "cat-32"
