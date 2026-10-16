@@ -2684,8 +2684,8 @@ figure_list:
   - id: "cat-27"
     src: figures/27.jpg
     caption: "Tommaso Righi, *Accademie di nudo*, 1760-1765 circa"
-    manifestId: "da inserire"
-    canvasId: "da inserire"
+    manifestId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/74197d41-f274-4f8b-8caa-f01600b04479/manifest
+    canvasId: https://accademiacarrara.jarvis.memooria.org/meta/iiif/74197d41-f274-4f8b-8caa-f01600b04479/canvas/ebd087e7-2473-44aa-9fa2-25205f7493b8
     zoom: true
 
   - id: "cat-27_1"
